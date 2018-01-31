@@ -2,7 +2,7 @@
 
 We intend for this to be as up-to-date as possible, so there's a lot of help we need to make this so.
 
-A lot of our content is gotten from the [Nigeria Law](https://nigeria-law.org) website. Some of it is in PDF, so it's a bit tasking to copy, paste and format in a readble markdown document.
+A lot of our content is gotten from the [Nigeria Law](https://nigeria-law.org) website. Some of it is in PDF, so it's a bit tasking to copy, paste and format in a readable markdown document.
 
 We'll use issues to mark sections we need help with. If you want to work on an issue, follow this guide:
 
