@@ -22,6 +22,8 @@ Separate pages are devoted to laws made in each year starting from the consolida
 
 - 1994
 
+  - [Petroleum Special Trust Fund](./1994/petroleum-special-trust-fund-act.md)
+
 - 1995
 
 - 1996
@@ -46,4 +48,6 @@ Separate pages are devoted to laws made in each year starting from the consolida
 
 - 2006
 
-- [The Freedom of Information Act - 2011](./freedom-of-information-act.md)
+- 2011
+
+  - [The Freedom of Information Act - 2011](./freedom-of-information-act.md)
