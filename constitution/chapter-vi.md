@@ -528,7 +528,9 @@ A person in the public service of the Federation shall observe and conform to th
 
 1. There shall be for each State of the Federation a Governor
 
-2. The governor of a shall be the Chief Executive of that state 177
+2. The governor of a shall be the Chief Executive of that state
+
+### Section 177
 
 A person shall be qualified for election to the office of Governor of a State if
 
