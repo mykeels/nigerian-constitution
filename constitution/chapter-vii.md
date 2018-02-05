@@ -633,3 +633,19 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 5. The decision of a court shall not be set aside or treated as a nullity solely on the ground of non-compliance with the provisions of subsection (1) of this section unless the court exercising jurisdiction by way of appeal or review of that decision is satisfied that the party complaining has suffered a miscarriage of justice by reason thereof.
 
 6. As soon as possible after hearing and deciding any case in which it has been determined or observed that there was non-compliance with the provisions of subsection (1) of this section, the person presiding at the sitting of the court shall send a report on the case to the Chairman of the National Judicial Council who shall keep the Council informed of such action as the Council may deem fit.
+
+### Section 295
+
+1. Where any question as to the interpretation or application of this Constitution arises in any proceedings in any court of law in any part of Nigeria (other than in the Supreme Court, the Court of Appeal, the Federal High Court or a High Court) and the court is of the opinion that the question involves a substantial question of law, the court may, and shall if any of the parties to the proceedings so requests, refer the question to the Federal High Court or a High Court having jurisdiction in that part of Nigeria and the Federal High Court or the High Court shall
+
+- (a) if it is of opinion that the question involves a substantial question of law, refer the question to the Court of Appeal; or
+
+- (b) if it is of opinion that the question does not involve a substantial question of law, remit the question to the court that made the reference to be disposed of in accordance with such directions as the Federal High Court or the High Court may think fit to give.
+
+2. Where any question as to the interpretation or application of this constitution arises in any proceedings in the Federal High Court or a High Court, and the court is of opinion that the question involves a substantial question of law, the court may, and shall if any party to the proceedings so requests, refer the question to the Court of Appeal; and where any question is referred in pursuance of this subsection, the court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision.
+
+3. Where any question as to the interpretation or application of this constitution arises in any proceedings in the Court of Appeal and the court is of opinion that the question involves a substantial question of law, the court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court which shall give its decision upon the question and give such directions to the Court of Appeal as it deems appropriate.
+
+### Section 296
+
+In this Chapter, unless the context otherwise requires, `"office"` when used with reference to the validity of an election to an office includes the office of President of the Federation, Vice-President of the Federation and Governor or Deputy Governor of a State but does not include the office of President of the Senate, Speaker of the House of Representatives, Speaker of a House of Assembly or any office established by this Constitution.
