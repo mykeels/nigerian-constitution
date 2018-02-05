@@ -1,4 +1,4 @@
-# Nigerian Constition
+# Nigerian Constitution
 
 Arrangement of sections
 
