@@ -33,4 +33,3 @@ Please follow these conventions.
     "Nigerian Constitution.md" ❌
 
     "Nigerian-Constitution.md" ❌
-
