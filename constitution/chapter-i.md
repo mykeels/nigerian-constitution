@@ -224,11 +224,11 @@
 
 1. The National Assembly may, subject to the provision of this section, alter any of the provisions of this Constitution
 
-2. An Act of the National Assembly for the altertion of this Constitution, not being an Act to which section 8 of this Constitution applies, shall not be passed in either House of the National Assembly unless the proposal is supported by the votes of not less than two-thirds majority of all the members of that House and approved by resolution of the Houses of Assembly of not less than two-thirds of all the States
+2. An Act of the National Assembly for the altertion of this Constitution, not being an Act to which [section 8](#section-8) of this Constitution applies, shall not be passed in either House of the National Assembly unless the proposal is supported by the votes of not less than two-thirds majority of all the members of that House and approved by resolution of the Houses of Assembly of not less than two-thirds of all the States
 
 3. An Act of the National Assembly for the purpose of altering the provisions of this section, [section 8](#section-8) or [Chapter IV](./chapter-iv.md) of this Constitution shall not be passed by either House of the National Assembly unless the proposal is approved by the votes of not less than four-fifths majority of all the members of each House, and also approved by resolution of the House of Assembly of not less than two-third of all States
 
-4. For the purposes of section 8 of this Constitution and of subsections (2) and (3) of this section, the number of members of each House of the National Assembly shall, notwithstanding any vacancy, be deemed to be the number of members specified in [sections 48](./chapter-v.md#section-48) and [49](./chapter-v.md#section-48) of this Constitution
+4. For the purposes of [section 8](#section-8) of this Constitution and of subsections (2) and (3) of this section, the number of members of each House of the National Assembly shall, notwithstanding any vacancy, be deemed to be the number of members specified in [sections 48](./chapter-v.md#section-48) and [49](./chapter-v.md#section-48) of this Constitution
 
 #### Section 10
 

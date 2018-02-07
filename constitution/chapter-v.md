@@ -98,7 +98,7 @@ Any person who sits or votes in the Senate or the House of Representatives knowi
 
 1. The power of the National Assembly to make laws shall be exercised by bills passed by both the Senate and the House of Representatives and, except as otherwise provided by subsection (5) of this section, assented to by the President
 
-2. A bill may originate in either the Senate or the House of Representatives and shall not become law unless it has been passed and, except as otherwise provided by this section and section 59 of this Constitution, assented to in accordance with the provisions of this section
+2. A bill may originate in either the Senate or the House of Representatives and shall not become law unless it has been passed and, except as otherwise provided by this section and [section 59](#section-59) of this Constitution, assented to in accordance with the provisions of this section
 
 3. Where a bill has been passed by the House in which it originated, it shall be sent to the other House, and it shall be presented to the President for assent when it has been passed by that other House and agreement has been reached between the two Houses on any amendment made on it
 
@@ -150,7 +150,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 #### Section 65
 
-1. Subject to the provisions of section 66 of this Constitution, a person shall be qualified for election as a member of:
+1. Subject to the provisions of [section 66](#section-66) of this Constitution, a person shall be qualified for election as a member of:
 
 - (a) the Senate, if he is a citizen of Nigeria and has attained the age of 35 years; and
 
@@ -166,7 +166,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 1. No person shall be qualified for election to the Senate or the House of Representatives if:
 
-- (a) subject to the provisions of section 28 of this Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, has made a declaration of allegiance to such a country;
+- (a) subject to the provisions of [section 28](./chapter-iii.md#section-28) of this Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, has made a declaration of allegiance to such a country;
 
 - (b) under any law in force in any part of Nigeria, he is adjudged to be a lunatic or otherwise declared to be of unsound mind;
 
@@ -222,7 +222,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 - (g) being a person whose election to the House was sponsored by a political party, he becomes a member of another political party before the expiration of the period for which that House was elected; Provided that his membership of the latter political party is not as a result of a division in the political party of which he was previously a member or of a merger of two or more political parties or factions by one of which he was previously sponsored; or
 
-- (h) the President of the Senate or, as the case may be, the Speaker of the House of Representatives receives a certificate under the hand of the Chairman of the Independent National Electoral Commission stating that the provisions of section 69 of this Constitution have been complied with in respect of the recall of that member
+- (h) the President of the Senate or, as the case may be, the Speaker of the House of Representatives receives a certificate under the hand of the Chairman of the Independent National Electoral Commission stating that the provisions of [section 69](#section-69) of this Constitution have been complied with in respect of the recall of that member
 
 2. The President of the Senate or the Speaker of the House of Representatives, as the case may be, shall give effect to the provisions of subsection (1) of this section, so however that the President of the Senate or the Speaker of the House of Representatives or a member shall first present evidence satisfactory to the House concerned that any of the provisions of that subsection has become applicable in respect of that member
 
@@ -242,11 +242,11 @@ A member of the Senate or of the House of Representatives shall receive such sal
 
 #### Section 71
 
-Subject to the provisions of section 72 of this Constitution, the Independent National Electoral Commission shall -
+Subject to the provisions of [section 72](#section-72) of this Constitution, the Independent National Electoral Commission shall -
 
 - (a) divide each State of the Federation into three Senatorial districts for purposes of elections to the Senate; and
 
-- (b) subject to the provisions of section 49 of this Constitution, divide the Federation into three hundred and sixty Federal constituencies for purposes of elections to the House of Representatives
+- (b) subject to the provisions of [section 49](#section-49) of this Constitution, divide the Federation into three hundred and sixty Federal constituencies for purposes of elections to the House of Representatives
 
 #### Section 72
 
@@ -256,7 +256,7 @@ No Senatorial district or Federal constituency shall fall within more than one S
 
 1. The Independent National Electoral Commission shall review the division of States and of the Federation into Senatorial districts and Federal constituencies at intervals of not less than ten years, and may alter the districts or constituencies in accordance with the provisions of this section to such extent as it may consider desirable in the light of the review
 
-2. Notwithstanding subsection (1) of this section, the Independent National Electoral Commission may at any time carry out such a review and alter the districts or constituencies in accordance with the provisions of this section to such extent as it considers necessary, in consequence of any amendment to section 8 of this Constitution or any provision replacing that section, or by reason of the holding of a census of the population, or pursuant to an Act of the National Assembly
+2. Notwithstanding subsection (1) of this section, the Independent National Electoral Commission may at any time carry out such a review and alter the districts or constituencies in accordance with the provisions of this section to such extent as it considers necessary, in consequence of any amendment to [section 8](./chapter-i.md#section-8) of this Constitution or any provision replacing that section, or by reason of the holding of a census of the population, or pursuant to an Act of the National Assembly
 
 #### Section 74
 
@@ -300,7 +300,7 @@ The National Assembly shall make provisions in respects -
 
 1. All revenues or other moneys raised or received by the Federation (not being revenues or other moneys payable under this Constitution or any Act of the National Assembly into any other public fund of the Federation established for a specific purpose) shall be paid into and form one Consolidated Revenue Fund of the Federation
 
-2. No moneys shall be withdrawn from the Consolidated Revenue Fund of the Federation except to meet expenditure that is charged upon the fund by this Constitution or where the issue of those moneys has been authorised by an Appropriation Act, Supplementary Appropriation Act or an Act passed in pursuance of section 81 of this Constitution
+2. No moneys shall be withdrawn from the Consolidated Revenue Fund of the Federation except to meet expenditure that is charged upon the fund by this Constitution or where the issue of those moneys has been authorised by an Appropriation Act, Supplementary Appropriation Act or an Act passed in pursuance of [section 81](#section-81) of this Constitution
 
 3. No moneys shall be withdrawn from any public fund of the Federation, other than the Consolidated Revenue Fund of the Federation, unless the issue of those moneys has been authorised by an Act of the National Assembly
 
@@ -312,7 +312,7 @@ The National Assembly shall make provisions in respects -
 
 2. The heads of expenditure contained in the estimates (other than expenditure charged upon the Consolidated Revenue Fund of the Federation by this Constitution) shall be included in a bill, to be known as an Appropriation Bill, providing for the issue from the Consolidated Revenue Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified therein
 
-3. Any amount standing to the credit of the judiciary in the Consolidated Revenue Fund of the Federation shall be paid directly to the National Judicial Council for disbursement to the heads of the courts established for the Federation and the State under section 6 of this Constitution
+3. Any amount standing to the credit of the judiciary in the Consolidated Revenue Fund of the Federation shall be paid directly to the National Judicial Council for disbursement to the heads of the courts established for the Federation and the State under [section 6](./chapter-i.md#section-6) of this Constitution
 
 4. If in respect of any financial year it is found that -
 
@@ -348,7 +348,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 #### Section 85
 
-1. There shall be an Auditor-General for the Federation who shall be appointed in accordance with the provisions of section 86 of this Constitution
+1. There shall be an Auditor-General for the Federation who shall be appointed in accordance with the provisions of [section 86](#section-86) of this Constitution
 
 2. The public accounts of the Federation and of all offices and courts of the Federation shall be audited and reported on to the Auditor-General who shall submit his reports to the National Assembly; and for that purpose, the Auditor-General or any person authorised by him in that behalf shall have access to all the books, records, returns and other documents relating to those accounts
 
@@ -394,7 +394,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 #### Section 89
 
-1. For the purposes of any investigation under section 88 of this Constitutional and subject to the provisions thereof, the Senate or the House of Representatives or a committee appointed in accordance with section 62 of this Constitution shall have power to -
+1. For the purposes of any investigation under [section 88](#section-88) of this Constitutional and subject to the provisions thereof, the Senate or the House of Representatives or a committee appointed in accordance with [section 62](#section-62) of this Constitution shall have power to -
 
 - (a) procure all such evidence, written or oral, direct or circumstantial, as it may think necessary or desirable, and examine all persons as witnesses whose evidence may be material or relevant to the subject matter;
 
@@ -508,7 +508,7 @@ A House of Assembly shall sit for a period of not less than one hundred and eigh
 
 #### Section 106
 
- Subject to the provisions of section 107 of this Constitution, a person shall be qualified for election as a member of a House of Assembly if - (a) he is a citizen of Nigeria; (b) he has attained the age of thirty years; (c) he has been educated up to at least the School Certificate level or its equivalent; and (d) he is a member of a political party and is sponsored by that party
+ Subject to the provisions of [section 107](#section-107) of this Constitution, a person shall be qualified for election as a member of a House of Assembly if - (a) he is a citizen of Nigeria; (b) he has attained the age of thirty years; (c) he has been educated up to at least the School Certificate level or its equivalent; and (d) he is a member of a political party and is sponsored by that party
 
 #### Section 107
 
@@ -570,7 +570,7 @@ A House of Assembly shall sit for a period of not less than one hundred and eigh
 
 - (g) being a person whose election to the House of Assembly was sponsored by a political party, he becomes a member of another political party before the expiration of the period for which that House was elected: Provided that his membership of the latter political party is not as a result of a division in the political party of which he was previously a member or of a merger of two or more political parties or factions by one of which he was previously sponsored; or
 
-- (h) the Speaker of the House of Assembly receives a certificate under the hand of the Chairman of the Independent National Electoral Commission stating that the provisions of section 110 of this Constitution have been complied with in respect of the recall of the member
+- (h) the Speaker of the House of Assembly receives a certificate under the hand of the Chairman of the Independent National Electoral Commission stating that the provisions of [section 110](#section-110) of this Constitution have been complied with in respect of the recall of the member
 
 2. The Speaker of the House of Assembly shall give effect to subsection (1) of this section, so however that the Speaker or a member shall first present evidence satisfactory to the House that any of the provisions of that subsection has become applicable in respect of the member
 
@@ -590,7 +590,7 @@ A member of the House of Assembly shall receive such salary and other allowances
 
 #### Section 112
 
- Subject to the provisions of sections 91 and 113 of this Constitution, the Independent National Electoral Commission shall divide every state in the federation into such number of state constituencies as is equal to three or four times the number of Federal constituencies within that state
+ Subject to the provisions of [sections 91](#section-91) and [113](#section-113) of this Constitution, the Independent National Electoral Commission shall divide every state in the federation into such number of state constituencies as is equal to three or four times the number of Federal constituencies within that state
 
 #### Section 113
 
@@ -604,7 +604,7 @@ The boundaries of each State constituency shall be such that the number of inhab
 
 #### Section 115
 
-Where the boundaries of any State constituency established under section 112 of this Constitution are altered in accordance with the provisions of section 114 of this Constitution, that alteration shall come into effect after it has been approved by the National Assembly and after the current life of the House of Assembly
+Where the boundaries of any State constituency established under [section 112](#section-112) of this Constitution are altered in accordance with the provisions of [section 114](#section-114) of this Constitution, that alteration shall come into effect after it has been approved by the National Assembly and after the current life of the House of Assembly
 
 #### Section 116
 
@@ -686,7 +686,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 #### Section 125
 
-1. There shall be an Auditor-General for each State who shall be appointed in accordance with the provisions of section 126 of this Constitution
+1. There shall be an Auditor-General for each State who shall be appointed in accordance with the provisions of [section 126](#section-126) of this Constitution
 
 2. The public accounts of a State and of all offices and courts of the State shall be audited by the Auditor-General for the State who shall submit his reports to the House of Assembly of the State concerned, and for that purpose the Auditor-General or any person authorised by him in that behalf shall have access to all the books, records, returns and other documents relating to those accounts
 
@@ -740,7 +740,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 #### Section 129
 
-1. For the purposes of any investigation under section 128 of this Constitution, and subject to the provisions thereof, a House of Assembly or a committee appointed in accordance with section 103 of this Constitution shall have power to -
+1. For the purposes of any investigation under [section 128](#section-128) of this Constitution, and subject to the provisions thereof, a House of Assembly or a committee appointed in accordance with [section 103](#section-103) of this Constitution shall have power to -
 
 - (a) procure all such evidence, written or oral, direct or circumstantial, as it may think necessary or desirable, and examine all persons as witnesses whose evidence may be material or relevant to the subject matter;
 

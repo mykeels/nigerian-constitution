@@ -100,7 +100,7 @@ A candidate for an election to the office of President shall be deemed to have b
 
 1. A person shall not be qualified for election to the office of President if -
 
-- (a) subject to the provisions of section 28 of this Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, he has made a declaration of allegiance to such other country; or
+- (a) subject to the provisions of [section 28](#section-28) of this Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, he has made a declaration of allegiance to such other country; or
 
 - (b) he has been elected to such office at any two previous elections; or
 
@@ -230,7 +230,7 @@ Whenever the President transmits to the President of the Senate and the Speaker 
 
 3. Where the office of Vice-President becomes vacant:-
 
-- (a) by reason of death or resignation, impeachment, permanent incapacity or removal in accordance with section 143 or 144 of this Constitution;
+- (a) by reason of death or resignation, impeachment, permanent incapacity or removal in accordance with [section 143](#section-143) or [144](#section-144) of this Constitution;
 
 - (b) by his assumption of the office of President in accordance with subsection (1) of this section; or
 
@@ -282,9 +282,9 @@ A Minister of the Government of the Federation shall not enter upon the duties o
 
 #### Section 152
 
-A person appointed as Special Adviser under section 151 of this Constitution shall not begin to perform the functions of his office until he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and oath of office prescribed in the Seventh Schedule to this Constitution
+A person appointed as Special Adviser under [section 151](#section-151) of this Constitution shall not begin to perform the functions of his office until he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and oath of office prescribed in the Seventh Schedule to this Constitution
 
-## B - Establishment of certain Federal Executive Bodies
+### B - Establishment of certain Federal Executive Bodies
 
 #### Section 153
 
@@ -358,7 +358,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 2. This section applies to the offices of the Chairman and members of the Code of Conduct Bureau, the Federal Civil Service Commission, the Independent National Electoral Commission, the National Judicial Council, the Federal Judicial Service Commission, the Federal Character Commission, the Nigeria Police Council, the National Population Commission, the Revenue Mobilisation Allocation and Fiscal Commission and the Police Service Commission
 
-3. All members of the National Population Commission shall cease to be members if the President declares a National Census Report as unreliable and the report is rejected in accordance with section 213 of this Constitution
+3. All members of the National Population Commission shall cease to be members if the President declares a National Census Report as unreliable and the report is rejected in accordance with [section 213](#section-213) of this Constitution
 
 #### Section 158
 
@@ -400,7 +400,7 @@ In this Part of this Chapter, unless the context otherwise requires -
 
 - (b) "office" means an office in the public service of the Federation;
 
-- (c) any reference to "member" of a body established by section 153 of this Constitution shall be construed as including a reference to the Chairman of that body; and
+- (c) any reference to "member" of a body established by [section 153](#section-153) of this Constitution shall be construed as including a reference to the Chairman of that body; and
 
 - (d) "misconduct" means a breach of the Oath of Allegiance or oath of office of a member or a breach of the provisions of this Constitution or bribery or corruption or false declaration of assets and liabilities or conviction for treason or treasonable felony.
 
@@ -422,7 +422,7 @@ In this Part of this Chapter, unless the context otherwise requires -
 
 8. The amount standing to the credit of Local Government Councils of a State shall be distributed among the Local Government Councils of that State on such terms and in such manner as may be prescribed by the House of Assembly of the State
 
-9. Any amount standing to the credit of the judiciary in the Federation Account shall be paid directly to the National Judicial Councils for disbursement to the heads of courts established for the Federation and the States under section 6 of this Constitution
+9. Any amount standing to the credit of the judiciary in the Federation Account shall be paid directly to the National Judicial Councils for disbursement to the heads of courts established for the Federation and the States under [section 6](#section-6) of this Constitution
 
 (10) For the purpose of subsection (1) of this section, "revenue" means any income or return accruing to or derived by the Government of the Federation from any source and includes -
 
@@ -616,7 +616,7 @@ A person shall be qualified for election to the office of Governor of a State if
 
 1. No person shall be qualified for election to the office of Governor of a State if -
 
-- (a) subject to the provisions of section 28 of this Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, he has made a declaration of allegiance to such other country; or
+- (a) subject to the provisions of [section 28](#section-28) of this Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, he has made a declaration of allegiance to such other country; or
 
 - (b) he has been elected to such office at any two previous elections; or
 
@@ -736,13 +736,13 @@ Whenever the Governor transmits to the Speaker of the House of Assembly a writte
 
 #### Section 191
 
-1. The Deputy Governor of a State shall hold the office of Governor of the State if the office of Governor becomes vacant by reason of death, resignation, impeachment, permanent incapacity or removal of the governor from office for any other reason in accordance with section 188 or 189 of this constitution
+1. The Deputy Governor of a State shall hold the office of Governor of the State if the office of Governor becomes vacant by reason of death, resignation, impeachment, permanent incapacity or removal of the governor from office for any other reason in accordance with [section 188](#section-188) or [189](#section-188) of this constitution
 
 2. Where any vacancy occurs in the circumstances mentioned in subsection (1) of this section during a period when the office of Deputy Governor of the State is also vacant, the Speaker of the House of Assembly of the State shall hold the office of Governor of the State for a period of not more than three months, during which there shall be an election of a new Governor of the State who shall hold office for the unexpired term of office of the last holder of the office
 
 3. Where the office of the Deputy Governor becomes vacant -
 
-- (a) by reason of death, resignation, impeachment, permanent incapacity or removal in accordance with section 188 or 189 of this Constitution;
+- (a) by reason of death, resignation, impeachment, permanent incapacity or removal in accordance with [section 188](#section-188) or [189](#section-189) of this Constitution;
 
 - (b) by his assumption of the office of Governor of a State in accordance with subsection (1) of this section; or
 
@@ -844,7 +844,7 @@ In exercising its power to make appointments or to exercise disciplinary control
 
 #### Section 203
 
-1. The quorum for a meeting of any of the bodies established by section 197 of this Constitution shall not be less than one-third of the total number of members of that body at the date of the meeting
+1. The quorum for a meeting of any of the bodies established by [section 197](#section-197) of this Constitution shall not be less than one-third of the total number of members of that body at the date of the meeting
 
 2. A member of such a body shall be entitled to one vote and a decision of the meeting may be taken and any act or thing may be done in the name of that body by a majority of the members present at a meeting
 
@@ -866,7 +866,7 @@ In this Part of this Chapter, unless the context otherwise requires:-
 
 - (b) office means an office in the public service of a State;
 
-- (c) any reference to member of any of the bodies established by section 197 of this Constitution shall be construed as including a reference, to the Chairman of that body; and
+- (c) any reference to member of any of the bodies established by [section 197](#section-197) of this Constitution shall be construed as including a reference, to the Chairman of that body; and
 
 - (d) misconduct means breach of the Oath of Allegiance or oath of office of a member or a breach of the provisions of this Constitution or bribery or corruption or false declaration of assets and liabilities or conviction for treason or treasonable felony.
 
@@ -974,7 +974,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 1. There shall be -
 
-- (a) an Inspector-General of Police who, subject to section 216(2) of this Constitution shall be appointed by the President on the advice of the Nigeria Police Council from among serving members of the Nigeria Police Force;
+- (a) an Inspector-General of Police who, subject to [section 216(2)](#section-216) of this Constitution shall be appointed by the President on the advice of the Nigeria Police Council from among serving members of the Nigeria Police Force;
 
 - (b) a Commissioner of Police for each state of the Federation who shall be appointed by the Police Service Commission
 

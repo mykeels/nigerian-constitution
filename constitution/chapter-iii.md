@@ -16,7 +16,7 @@
 
 ### Section 26
 
-1. Subject to the provisions of section 28 of this Constitution, a person to whom the provisions of this section apply may be registered as a citizen of Nigeria, if the President is satisfied that -
+1. Subject to the provisions of [section 28](#section-28) of this Constitution, a person to whom the provisions of this section apply may be registered as a citizen of Nigeria, if the President is satisfied that -
 
 - (a) he is a person of good character;
 
@@ -32,7 +32,7 @@
 
 ### Section 27
 
-1. Subject to the provisions of section 28 of this Constitution, any person who is qualified in accordance with the provisions of this section may apply to the President for the same of a certificate of naturalisation
+1. Subject to the provisions of [section 28](#section-28) of this Constitution, any person who is qualified in accordance with the provisions of this section may apply to the President for the same of a certificate of naturalisation
 
 2. No person shall be qualified to apply for the grant of a certificate or naturalisation, unless he satisfies the President that -
 

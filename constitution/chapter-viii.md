@@ -26,11 +26,11 @@ The provisions of this Constitution shall apply to the Federal Capital Territory
 
 #### Section 300
 
-For the purposes of Chapter V of this Constitution, the Federal Capital Territory, Abuja shall constitute one Senatorial district and as many Federal constituencies as it is entitled to under section 49 of this Constitution
+For the purposes of Chapter V of this Constitution, the Federal Capital Territory, Abuja shall constitute one Senatorial district and as many Federal constituencies as it is entitled to under [section 49](./chapter-v.md#section-49) of this Constitution
 
 #### Section 301
 
-Without prejudice to the generality of the provisions of section 299 of this Constitution, in its application to the Federal Capital Territory, Abuja, this Constitution shall be construed as if-
+Without prejudice to the generality of the provisions of [section 299](#section-299) of this Constitution, in its application to the Federal Capital Territory, Abuja, this Constitution shall be construed as if-
 
 - (a) references to the Governor, Deputy Governor and the executive council of a State (howsoever called) were references to the President, Vice-President and the executive council of the Federation (howsoever called) respectively;
 
@@ -220,7 +220,7 @@ Any debt of the Federation or of a State which immediately before the date when 
 
 #### Section 317
 
-1. Without prejudice to the generality of section 315 of this constitution, any property, right, privilege, liability or obligation which immediately before the date when this section comes into force was vested in, exercisable or enforceable by or against-
+1. Without prejudice to the generality of [section 315](#section-315) of this constitution, any property, right, privilege, liability or obligation which immediately before the date when this section comes into force was vested in, exercisable or enforceable by or against-
 
 - (a) the former authority of the Federation as representative or trustee for the benefit of the Federation;
 
