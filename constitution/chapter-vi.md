@@ -2,13 +2,15 @@
 
 ## The Executive
 
-### Section 130
+### Part I - Federal Executive
+
+#### Section 130
 
 1. There shall be for the Federation a President
 
 2. The President shall be the Head of State, the Chief Executive of the Federation and Commander-in-Chief of the Armed Forces of the Federation
 
-### Section 131
+#### Section 131
 
 A person shall be qualified for election to the office of the President if -
 
@@ -22,7 +24,7 @@ A person shall be qualified for election to the office of the President if -
 
  A person shall be qualified for election to the office of the President if -
 
-### Section 132
+#### Section 132
 
 1. An election to the office of President shall be held on a date to be appointed by the Independent National Electoral Commission
 
@@ -34,7 +36,7 @@ A person shall be qualified for election to the office of the President if -
 
 5. Every person who is registered to vote at an election of a member of a legislative house shall be entitled to vote at an election to the office of President
 
-### Section 133
+#### Section 133
 
 A candidate for an election to the office of President shall be deemed to have been duly elected to such office where, being the only candidate nominated for the election -
 
@@ -42,7 +44,7 @@ A candidate for an election to the office of President shall be deemed to have b
 
 - (b) he has not less than one-quarter of the votes cast at the election in each of at least two-thirds of all the States in the Federation and the Federal Capital Territory, Abuja.
 
-### Section 134
+#### Section 134
 
 1. A candidate for an election to the office of President shall be deemed to have be been duly elected, where, there being only two candidates for the election -
 
@@ -70,7 +72,7 @@ A candidate for an election to the office of President shall be deemed to have b
 
 5. In default of a candidate duly elected under subsection (4) of this section, the Independent National Electoral Commission shall, within seven days of the result of the election held under the aforesaid subsection (4), arrange for another election between the two candidates to which the subsection relates and a candidate at such election shall be deemed to have been duly elected to the office of President, if he has a majority of the votes cast at the election
 
-### Section 135
+#### Section 135
 
 1. Subject to the provisions of this Constitution, a person shall hold the office of President until -
 
@@ -88,13 +90,13 @@ A candidate for an election to the office of President shall be deemed to have b
 
 3. If the Federation is at war in which the territory of Nigeria is physically involved and the President considers that it is not practicable to hold elections, the National Assembly may by resolution extend the period of four years mentioned in subsection (2) of this section from time to time; but no such extension shall exceed a period of six months at any one time
 
-### Section 136
+#### Section 136
 
 1. If a person duly elected as President dies before taking and subscribing the Oath of Allegiance and oath of office, or is for any reason whatsoever unable to be sworn in, the person elected with him as Vice-President shall be sworn in as President and he shall nominate a new Vice-President who shall be appointed by the President with the approval by a simple majority of the National Assembly at a joint sitting
 
 2. Where the persons duly elected as President and Vice President die or are unable for any reason whatsoever to assume office before the inauguration of the National Assembly, the Independent National Electoral Commission shall immediately conduct an election for a President and the Vice-President
 
-### Section 137
+#### Section 137
 
 1. A person shall not be qualified for election to the office of President if -
 
@@ -128,11 +130,11 @@ A candidate for an election to the office of President shall be deemed to have b
 
 - (e) any appeal against the decision is pending in any court of law in accordance with any law in force in Nigeria, subsection (1) of this section shall not apply during a period beginning from the date when such appeal is lodged and ending on the date when the appeal is finally determined or, as the case may be, the appeal lapses or is abandoned, whichever is earlier
 
-### Section 138
+#### Section 138
 
 The President shall not, during his tenure of office, hold any other executive office or paid employment in any capacity whatsoever
 
-### Section 139
+#### Section 139
 
 The National Assembly shall by an Act make provisions as respects -
 
@@ -148,23 +150,23 @@ The National Assembly shall by an Act make provisions as respects -
 
 - (c) powers, practice and procedure of the Court of Appeal in relation to any such application
 
-### Section 140
+#### Section 140
 
 1. A person elected to the office of President shall not begin to perform the functions of that office until he has declared his assets and liabilities as prescribed in this Constitution and he has taken and subscribed the Oath of Allegiance and the oath of office prescribed in the Seventh Schedule to this Constitution
 
 2. The oaths aforesaid shall be administered by the Chief Justice of Nigeria or the person for the time being appointed to exercise the functions of that office
 
-### Section 141
+#### Section 141
 
 There shall be for the Federation a Vice-President
 
-### Section 142
+#### Section 142
 
 1. In any election to which the foregoing provisions of this Part of this Chapter relate, a candidate for an election to the office of President shall not be deemed to be validly nominated unless he nominates another candidate as his associate from the same political party for his running for the office of President, who is to occupy the office of Vice-President and that candidate shall be deemed to have been duly elected to the office of Vice-President if the candidate for an election to the office of President who nominated him as such associate is duly elected as President in accordance with the provisions aforesaid
 
 2. The provisions of this Part of this Chapter relating to qualification for election, tenure of office, disqualification, declaration of assets and liabilities and oaths of President shall apply in relation to the office of Vice-President as if references to President were references to Vice-President
 
-### Section 143
+#### Section 143
 
 1. The President or Vice-President may be removed from office in accordance with the provisions of this section
 
@@ -196,7 +198,7 @@ There shall be for the Federation a Vice-President
 
 (11) In this section - `"gross misconduct"` means a grave violation or breach of the provisions of this Constitution or a misconduct of such nature as amounts in the opinion of the National Assembly to gross misconduct
 
-### Section 144
+#### Section 144
 
 1. The President or Vice-President shall cease to hold office, if -
 
@@ -216,11 +218,11 @@ There shall be for the Federation a Vice-President
 
 5. In this section, the reference to "executive council of the Federation" is a reference to the body of Ministers of the Government of the Federation, howsoever called, established by the President and charged with such responsibilities for the functions of government as the President may direct
 
-### Section 145
+#### Section 145
 
 Whenever the President transmits to the President of the Senate and the Speaker of the House of Representatives a written declaration that he is proceeding on vacation or that he is otherwise unable to discharge the functions of his office, until he transmits to them a written declaration to the contrary such functions shall be discharged by the Vice-President as Acting President
 
-### Section 146
+#### Section 146
 
 1. The Vice-President shall hold the office of President if the office of President becomes vacant by reason of death or resignation, impeachment, permanent incapacity or the removal of the President from office for any other reason in accordance with [section 143](#section-143) of this Constitution
 
@@ -234,7 +236,7 @@ Whenever the President transmits to the President of the Senate and the Speaker 
 
 - (c) for any other reason, the President shall nominate and, with the approval of each House of the National Assembly, appoint a new Vice-President
 
-### Section 147
+#### Section 147
 
 1. There shall be such offices of Ministers of the Government of the Federation as may be established by the President
 
@@ -248,7 +250,7 @@ Whenever the President transmits to the President of the Senate and the Speaker 
 
 6. An appointment to any of the offices aforesaid shall be deemed to have been made where no return has been received from the Senate within twenty-one working days of the receipt of nomination by the Senate
 
-### Section 148
+#### Section 148
 
 1. The President may, in his discretion, assign to the Vice-President or any Minister of the Government of the Federation responsibility for any business of the Government of the Federation, including the administration of any department of government
 
@@ -260,17 +262,17 @@ Whenever the President transmits to the President of the Senate and the Speaker 
 
 - (c) advising the President generally in discharge of his executive functions other than those functions with respect to which he is required by this Constitution to seek the advice or act on the recommendation of any other person or body
 
-### Section 149
+#### Section 149
 
 A Minister of the Government of the Federation shall not enter upon the duties of his office, unless he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and the oath of office for the due execution of the duties of his office prescribed in the Seventh Schedule to this Constitution
 
-### Section 150
+#### Section 150
 
 1. There shall be an Attorney-General of the Federation who shall be the Chief Law Officer of the Federation and a Minister of the Government of the Federation
 
 2. A person shall not be qualified to hold or perform the functions of the office of the Attorney-General of the Federation unless he is qualified to practise as a legal practitioner in Nigeria and has been so qualified for not less than ten years
 
-### Section 151
+#### Section 151
 
 1. The President may appoint any person as a Special Adviser to assist him in the performance of his functions
 
@@ -278,13 +280,13 @@ A Minister of the Government of the Federation shall not enter upon the duties o
 
 3. Any appointment made pursuant to the provisions of this section shall be at the pleasure of the President and shall cease when the President ceases to hold office
 
-### Section 152
+#### Section 152
 
 A person appointed as Special Adviser under section 151 of this Constitution shall not begin to perform the functions of his office until he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and oath of office prescribed in the Seventh Schedule to this Constitution
 
 ## B - Establishment of certain Federal Executive Bodies
 
-### Section 153
+#### Section 153
 
 1. There shall be established for the Federation the following bodies, namely:
 
@@ -318,7 +320,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 2. The composition and powers of each body established by subsection (1) of this section are as contained in Part 1 of the Third Schedule to this Constitution
 
-### Section 154
+#### Section 154
 
 1. Except in the case of ex officio members or where other provisions are made in this Constitution, the Chairman and members of any of the bodies so established shall, subject to the provisions of this Constitution, be appointed by the President and the appointment shall be subject to confirmation by the Senate
 
@@ -326,7 +328,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 3. In exercising his powers to appoint a person as Chairman or member of the Independent National Electoral Commission, National Judicial Council, the Federal Judicial Service Commission or the National Population Commission, the President shall consult the Council of State
 
-### Section 155
+#### Section 155
 
 1. A person who is a member of any of the bodies established as aforesaid shall, subject to the provisions of this Part, remain a member thereof -
 
@@ -338,7 +340,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 2. A member of any of the bodies shall cease to be member if any circumstances arise that, if he were not a member of the body, would cause him to be disqualified for appointment as such a member
 
-### Section 156
+#### Section 156
 
 1. No person shall be qualified for appointment as a member of any of the bodies aforesaid if -
 
@@ -350,7 +352,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 3. No person shall be qualified for appointment to any of the bodies aforesaid if, having previously been appointed as a member otherwise than as an ex officio member of that body, he has been re-appointed for a further term as a member of the same body
 
-### Section 157
+#### Section 157
 
 1. Subject to the provisions of subsection (3) of this section, a person holding any of the offices to which this section applies may only be removed from that office by the President acting on an address supported by two-thirds majority of the Senate praying that he be so removed for inability to discharge the functions of the office (whether arising from infirmity of mind or body or any other cause) or for misconduct
 
@@ -358,7 +360,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 3. All members of the National Population Commission shall cease to be members if the President declares a National Census Report as unreliable and the report is rejected in accordance with section 213 of this Constitution
 
-### Section 158
+#### Section 158
 
 1. In exercising its power to make appointments or to exercise disciplinary control over persons, the Code of Conduct Bureau, the National Judicial Council, the Federal Civil Service Commission, the Federal Judicial Service Commission, the Revenue Mobilisation and Fiscal Commission, the Federal Character Commission, and the Independent National Electoral Commission shall not be subject to the direction or control of any other authority or person
 
@@ -372,7 +374,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 - (d) in compiling its report of a national census for publication
 
-### Section 159
+#### Section 159
 
 1. The quorum for a meeting of any of the bodies established by [section 153](#section-153) of this Constitution shall be not less than one-third of the total number of members of that body at the date of the meeting
 
@@ -382,7 +384,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 4. Subject to its rules of procedure, any such body may act or take part in any decision notwithstanding any vacancy in its membership or the absence of any member
 
-### Section 160
+#### Section 160
 
 1. Subject to subsection (2) of this section, any of the bodies may, with the approval of the President, by rules or otherwise regulate its own procedure or confer powers and impose duties on any officer or authority for the purpose of discharging its functions
 
@@ -390,7 +392,7 @@ A person appointed as Special Adviser under section 151 of this Constitution sha
 
 The President, upon the receipt of advice from the Revenue Mobilisation Allocation and Fiscal Commission, shall table before the National Assembly proposals for revenue allocation from the Federation Account, and in determining the formula, the National Assembly shall take into account, the allocation principles especially those of population, equality of States, internal revenue generation, land mass, terrain as well as population density.
 
-### Section 161
+#### Section 161
 
 In this Part of this Chapter, unless the context otherwise requires -
 
@@ -402,7 +404,7 @@ In this Part of this Chapter, unless the context otherwise requires -
 
 - (d) "misconduct" means a breach of the Oath of Allegiance or oath of office of a member or a breach of the provisions of this Constitution or bribery or corruption or false declaration of assets and liabilities or conviction for treason or treasonable felony.
 
-### Section 162
+#### Section 162
 
 1. The Federation shall maintain a special account to be called `"the Federation Account"` into which shall be paid all revenues collected by the Government of the Federation, except the proceeds from the personal income tax of the personnel of the armed forces of the Federation, the Nigeria Police Force, the Ministry or department of government charged with responsibility for Foreign Affairs and the residents of the Federal Capital Territory, Abuja
 
@@ -430,7 +432,7 @@ In this Part of this Chapter, unless the context otherwise requires -
 
 - (c) any return by way of interest on loans and dividends in respect of shares or interest held by the Government of the Federation in any company or statutory body
 
-### Section 163
+#### Section 163
 
 Where under an Act of the National Assembly, tax or duty is imposed in respect of any of the matters specified in item D of Part II of the Second Schedule to this Constitution, the net proceeds of such tax or duty shall be distributed among the States on the basis of derivation and accordingly -
 
@@ -438,35 +440,35 @@ Where under an Act of the National Assembly, tax or duty is imposed in respect o
 
 - (b) where such tax or duty is collected by the Government of the Federation or other authority of the Federation, there shall be paid to each State at such times as the National Assembly may prescribe a sum equal to the proportion of the net proceeds of such tax or duty that are derived from that State
 
-### Section 164
+#### Section 164
 
 1. The Federation may make grants to a State to supplement the revenue of that State in such sum and subject to such terms and conditions as may be prescribed by the National Assembly
 
 2. The Federation may make external grants to a foreign State or any international body in furtherance of the foreign policy objectives of Nigeria in such sum and subject to such terms and conditions as may be prescribed by the National Assembly
 
-### Section 165
+#### Section 165
 
 Each State shall, in respect of each financial year, pay to the Federation an amount equal to such part of the expenditure incurred by the Federation during that financial year for the purpose of collection of taxes or duties which are wholly or partly payable to the State pursuant to the provisions of this Part of this Chapter or of any Act of the National Assembly as is proportionate to the share of the proceeds of those taxes or duties received by the State in respect of that financial year
 
-### Section 166
+#### Section 166
 
 1. Any payment that is required by this Part of this Chapter to be made by the Federation to a State may be set-off by the Federation in or towards payment of any sum that is due from that State to the Federation in respect of any loan made by the Federation to that State
 
 2. The right of set-off conferred by subsection (1) of this section shall be without prejudice to any other right of the Federation to obtain payment of any sum due to the Federation in respect of any loan
 
-### Section 167
+#### Section 167
 
 Any payment that is required by this Part of this Chapter to be made by the Federation to a State shall be a charge upon the Consolidated Revenue Fund of the Federation and any payment that is so required to be made by a State to the Federation shall be a charge upon the Consolidated Revenue Fund of that State
 
-### Section 169
+#### Section 169
 
  There shall be a civil service of the Federation
 
-### Section 170
+#### Section 170
 
 Subject to the provisions of this Constitution, the Federal Civil Service Commission may, with the approval of the President and subject to such conditions as it may deem fit, delegate any of the powers conferred upon it by this Constitution to any of its members or to any officer in the civil service of the Federation
 
-### Section 171
+#### Section 171
 
 1. Power to appoint persons to hold or act in the offices to which this section applies and to remove persons so appointed from any such office shall vest in the President
 
@@ -480,11 +482,11 @@ Subject to the provisions of this Constitution, the Federal Civil Service Commis
 
 6. Any appointment made pursuant to paragraphs (a) and (e) of subsection (2) of this section shall be at the pleasure of the President and shall cease when the President ceases to hold office; Provided that where a person has been appointed from a public service of the Federation or a State, he shall be entitled to return to the public service of the Federation or of the State when the President ceases to hold office
 
-### Section 172
+#### Section 172
 
 A person in the public service of the Federation shall observe and conform to the Code of Conduct
 
-### Section 173
+#### Section 173
 
 1. Subject to the provisions of this Constitution, the right of a person in the public service of the Federation to receive pension or gratuity shall be regulated by law
 
@@ -494,7 +496,7 @@ A person in the public service of the Federation shall observe and conform to th
 
 4. Pensions in respect of service in the public service of the Federation shall not be taxed
 
-### Section 174
+#### Section 174
 
 1. The Attorney-General of the Federation shall have power -
 
@@ -508,7 +510,7 @@ A person in the public service of the Federation shall observe and conform to th
 
 3. In exercising his powers under this section, the Attorney-General of the Federation shall have regard to the public interest, the interest of justice and the need to prevent abuse of legal process
 
-### Section 175
+#### Section 175
 
 1. The President may -
 
@@ -524,13 +526,15 @@ A person in the public service of the Federation shall observe and conform to th
 
 3. The President, acting in accordance with the advice of the Council of State, may exercise his powers under subsection (1) of this section in relation to persons concerned with offences against the army, naval or air-force law or convicted or sentenced by a court-martial.
 
-### Section 176
+### Part II - State Executive
+
+#### Section 176
 
 1. There shall be for each State of the Federation a Governor
 
 2. The governor of a shall be the Chief Executive of that state
 
-### Section 177
+#### Section 177
 
 A person shall be qualified for election to the office of Governor of a State if
 
@@ -542,7 +546,7 @@ A person shall be qualified for election to the office of Governor of a State if
 
 - (d) he has been educated up to at least School Certificate level or its equivalent
 
-### Section 178
+#### Section 178
 
 1. An election to the office of Governor of a State shall be held on a date to be appointed by the Independent National Electoral Commission
 
@@ -554,7 +558,7 @@ A person shall be qualified for election to the office of Governor of a State if
 
 5. Every person who is registered to vote at an election of a member of a legislative house shall be entitled to vote at an election to the office of Governor of a State
 
-### Section 179
+#### Section 179
 
 1. A candidate for an election to the office of Governor of a State shall be deemed to have been duly elected to such office where, being the only candidate nominated for the election-
 
@@ -582,7 +586,7 @@ A person shall be qualified for election to the office of Governor of a State if
 
 5. In default of a candidate duly elected under subsection (4) of this section, the Independent National Electoral Commission shall within seven days of the result of the election held under that subsection, arrange for another election between the two candidates to which that sub-paragraph relates and a candidate at such election shall be deemed to have been duly elected to the office of governor of a State if he has a majority of the votes cast at the election
 
-### Section 180
+#### Section 180
 
 1. subject to the provisions of this Constitution, a person shall hold the office of Governor of a State until -
 
@@ -602,13 +606,13 @@ A person shall be qualified for election to the office of Governor of a State if
 
 3. If the Federation is at war in which the territory of Nigeria is physically involved and the President considers that it is not practicable to hold elections, the National Assembly may be resolution extend the period of four years mentioned in subsection (2) of this section from time to time, but no such extension shall exceed a period of six months at any one time
 
-### Section 181
+#### Section 181
 
 1. If a person duly elected as Governor dies before taking and subscribing the Oath of Allegiance and oath of office, or is unable for any reason whatsoever to be sworn in, the person elected with him as Deputy governor shall be sworn in as Governor and he shall nominate a new Deputy-Governor who shall be appointed by the Governor with the approval of a simple majority of the House of Assembly of the State
 
 2. Where the persons duly elected as Governor and Deputy Governor of a State die or are for any reason unable to assume office before the inauguration of the house of Assembly, the Independent National Electoral Commission shall immediately conduct an election for a Governor and Deputy Governor of the State
 
-### Section 182
+#### Section 182
 
 1. No person shall be qualified for election to the office of Governor of a State if -
 
@@ -642,11 +646,11 @@ A person shall be qualified for election to the office of Governor of a State if
 
 - (d) adjudged or declared bankrupt, an appeal against the decision is pending in any court of law in accordance with any law in force in Nigeria, subsection (1) of this section shall not apply during a period beginning from the date when such appeal is lodged and ending on the date when the appeal is finally determined or, as the case may be, the appeal lapses or is abandoned, whichever is earlier
 
-### Section 183
+#### Section 183
 
 The governor shall not, during the period when he holds office, hold any other executive office or paid employment in any capacity whatsoever
 
-### Section 184
+#### Section 184
 
 The National Assembly shall make provisions in respect of -
 
@@ -662,23 +666,23 @@ The National Assembly shall make provisions in respect of -
 
 - (c) powers, practice and procedure of the election tribunal in relation to any such application
 
-### Section 185
+#### Section 185
 
 1. A person elected to the office of the Governor of a State shall not begin to perform the functions of that until he has declared his assets and liabilities as prescribed in the Constitution and has subsequently taken and subscribed the Oath of Allegiance and oath of office prescribed in the Seventh Schedule to this Constitution
 
 2. The Oath of Allegiance and the oath of office shall be administered by the Chief Judge of the State or Grand Kadi of the Sharia Court of Appeal of the State, if any or President of the Customary Court of Appeal of the State, if any, or the person for the time being respectively appointed to exercise the functions of any of those offices in any State.
 
-### Section 186
+#### Section 186
 
  There shall be for each State of the Federation a Deputy Governor.
 
-### Section 187
+#### Section 187
 
 1. In any election to which the foregoing provisions of this part of this Chapter relate a candidate for the office of Governor of a State shall not be deemed to have been validly nominated for such office unless he nominates another candidate as his associate for his running for the office of Governor, who is to occupy the office of Deputy Governor; and that candidate shall be deemed to have been duly elected to the office of Deputy Governor if the candidate who nominated him is duly elected as Governor in accordance with the said provisions
 
 2. The provisions of this Part of this Chapter relating to qualification for election, tenure of office, disqualifications, declaration of assets and liabilities and Oath of Governor shall apply in relation to the office of Deputy Governor as if references to Governor were references to Deputy Governor
 
-### Section 188
+#### Section 188
 
 1. The Governor or Deputy Governor of a state may be removed from office in accordance with the provisions of this section
 
@@ -706,7 +710,7 @@ the speaker of the House of Assembly shall, within seven days of the receipt of 
 
 (11) In this section - "gross misconduct" means a grave violation or breach of the provisions of this Constitution or a misconduct of such nature as amounts in the opinion in the House of Assembly to gross misconduct
 
-### Section 189
+#### Section 189
 
 1. Where any payment falls to be made under this Part of this Chapter, the amount payable shall be certified by the Auditor-General for the Federation; Provided that a provisional payment may be made before the Auditor-General has given his certificate
 
@@ -726,11 +730,11 @@ the speaker of the House of Assembly shall, within seven days of the receipt of 
 
 5. In this section, the reference to "executive council of the State" is a reference to the body of Commissioners of the Government of the State, howsoever called, established by the Governor and charged with such responsibilities for the functions of Government as the Governor may direct
 
-### Section 190
+#### Section 190
 
 Whenever the Governor transmits to the Speaker of the House of Assembly a written declaration that he is proceeding on vacation or that he is otherwise unable to discharge the functions of his office, until he transmits to the Speaker of the House of Assembly a written declaration to the contrary such functions shall be discharged by the Deputy Governor as Acting Governor
 
-### Section 191
+#### Section 191
 
 1. The Deputy Governor of a State shall hold the office of Governor of the State if the office of Governor becomes vacant by reason of death, resignation, impeachment, permanent incapacity or removal of the governor from office for any other reason in accordance with section 188 or 189 of this constitution
 
@@ -744,7 +748,7 @@ Whenever the Governor transmits to the Speaker of the House of Assembly a writte
 
 - (c) for any other reason, the Governor shall nominate and with the approval of the House of Assembly of the State, appoint a new Deputy Governor
 
-### Section 192
+#### Section 192
 
 1. There shall be such offices of Commissioners of the Government of a State as may be established by the Governor of the State (2) Any appointment to the office of Commissioner of the Government of a State shall, if the nomination of any person to such office is confirmed by the House of Assembly of the State, be made by the Governor of that State and in making any such appointment the Governor shall conform with the provisions of [section 14(4)](./chapter-ii.md#section-14) of this Constitution
 
@@ -754,7 +758,7 @@ Whenever the Governor transmits to the Speaker of the House of Assembly a writte
 
 5. An appointment to the office of Commissioner under this section shall be deemed to have been made where no return has been received from the House of Assembly within twenty-one working days of the receipt of nomination, by the House of Assembly
 
-### Section 193
+#### Section 193
 
 1. The Governor of a State may, in his discretion, assign to the Deputy Governor or any Commissioner of the Government of the State responsibility for any business of the Government of that State, including the administration of any department of Government
 
@@ -766,17 +770,17 @@ Whenever the Governor transmits to the Speaker of the House of Assembly a writte
 
 - (c) advising the Governor generally in the discharge of his executive functions, other than those functions with respect to which he is required by this Constitution to seek the advice or act on the recommendation of any other person or body
 
-### Section 194
+#### Section 194
 
 A Commissioner of the Government of a State shall not enter upon the duties of his office unless he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the oath of Allegiance and the oath for the due execution of the duties of his office prescribed in the Seventh Schedule to this Constitution
 
-### Section 195
+#### Section 195
 
 1. There shall be an Attorney-General for each State who shall be the Chief Law Officer of the State and Commissioner for Justice of the Government of that State
 
 2. A person shall not be qualified to hold or perform the functions of the office of the Attorney-General of a State unless he is qualified to practise as a legal practitioner in Nigeria and has been so qualified for not less than ten years
 
-### Section 196
+#### Section 196
 
 1. The Governor of a State may appoint any person as a Special Adviser to assist him in the performance of his functions
 
@@ -786,7 +790,7 @@ A Commissioner of the Government of a State shall not enter upon the duties of h
 
 4. A person appointed as a Special Adviser under subsection (1) of this section shall not begin to perform the functions of the office unless he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and the oath of office prescribed in the Seventh Schedule to this Constitution.
 
-### Section 197
+#### Section 197
 
 1. There shall be established for each State of the Federation the following bodies, namely -
 
@@ -800,11 +804,11 @@ A Commissioner of the Government of a State shall not enter upon the duties of h
 
 3. In appointing Chairmen and members of boards and governing bodies of statutory corporations and companies in which the Government of the State has controlling shares or interests and councils of Universities, Colleges and other institutions of higher learning, the Governor shall conform with the provisions of [section 14(4)](#section-14) of this Constitution
 
-### Section 198
+#### Section 198
 
 Except in the case of ex-officio members or where other provisions are made in this Constitution, the Chairman and members of any of the bodies so established shall, subject to the provisions of this Constitution, be appointed by the Governor of the State and the appointment shall be subject to confirmation by a resolution of the House of Assembly of the State
 
-### Section 199
+#### Section 199
 
 1. A person who is a member of any of the bodies established as aforesaid shall, subject to the provisions of this Part, remain a member thereof -
 
@@ -816,7 +820,7 @@ Except in the case of ex-officio members or where other provisions are made in t
 
 2. A member of any of the bodies shall cease to be a member if any circumstances arise that, if he were not a member of the body, would cause him to be disqualified for appointment as such a member
 
-### Section 200
+#### Section 200
 
 1. No person shall be qualified for appointment as a member of any of the bodies aforesaid if -
 
@@ -828,17 +832,17 @@ Except in the case of ex-officio members or where other provisions are made in t
 
 3. No person shall be qualified for appointment to any of the bodies aforesaid, if, having previously been appointed as a member otherwise than as an ex officio member of that body, he has been re-appointed for a further term as a member of the same body
 
-### Section 201
+#### Section 201
 
 1. Any person holding any of the offices to which this section applies shall only be removed from that office by the Governor of that State acting on an address supported by two-thirds majority of the House of Assembly of the State praying that he be so removed for inability to discharge the functions of the office (whether arising from infirmity of mind or body or any other cause) or for misconduct
 
 2. This section applies to the Offices of the Chairman and members of the State Civil Service Commission, the State Independent Electoral Commission and the State Judicial Service Commission
 
-### Section 202
+#### Section 202
 
 In exercising its power to make appointments or to exercise disciplinary control over persons the State Civil Service Commission, the State Independent Electoral Commission and the State Judicial Service Commission shall not be subject to the direction and control of any other authority or person
 
-### Section 203
+#### Section 203
 
 1. The quorum for a meeting of any of the bodies established by section 197 of this Constitution shall not be less than one-third of the total number of members of that body at the date of the meeting
 
@@ -848,13 +852,13 @@ In exercising its power to make appointments or to exercise disciplinary control
 
 4. Subject to its rules of procedure, any such body may act or take any decision notwithstanding any vacancy in its membership or the absence of any member
 
-### Section 204
+#### Section 204
 
 1. Subject to subsection (2) of this section, any of the bodies may, with the approval of the Governor, by rules or otherwise regulate its own procedure or confer powers or impose duties on any officer or authority for the purpose of discharging its functions
 
 2. In the exercise of any powers under subsection (1) of this section any such body shall not confer powers or impose duties on any officer or authority of the Federation except with the approval of the President
 
-### Section 205
+#### Section 205
 
 In this Part of this Chapter, unless the context otherwise requires:-
 
@@ -866,15 +870,15 @@ In this Part of this Chapter, unless the context otherwise requires:-
 
 - (d) misconduct means breach of the Oath of Allegiance or oath of office of a member or a breach of the provisions of this Constitution or bribery or corruption or false declaration of assets and liabilities or conviction for treason or treasonable felony.
 
-### Section 206
+#### Section 206
 
  There shall be for each State of the Federation a Civil Service
 
-### Section 207
+#### Section 207
 
 Subject to the provisions of this Constitution, a State Civil Service Commission may, with the approval of the Governor and subject to such conditions as it may deem fit, delegate any of the powers conferred upon it by this Constitution to any of its members or to any officer in the civil service of the State
 
-### Section 208
+#### Section 208
 
 1. Power to appoint persons to hold or act in the offices to which this section applies and to remove persons so appointed from any such office shall vest in the Governor of the State
 
@@ -894,11 +898,11 @@ Subject to the provisions of this Constitution, a State Civil Service Commission
 
 5. Any appointment made pursuant to paragraphs (a) and (d) of subsection (2) of this section shall be at the pleasure of the Governor and shall cease when the Governor ceases to hold office: Provided that where a person has been appointed from a public service of the Federation or a State, he shall be entitled to return to the public service of the Federation or of the State when the Governor ceases to hold office
 
-### Section 209
+#### Section 209
 
 A person in the public service of a State shall observe and conform to the Code of Conduct
 
-### Section 210
+#### Section 210
 
 1. Subject to the provisions of subsection (2) of this section, the right of a person in the public service of a State to receive pension or gratuity shall be regulated by law
 
@@ -908,7 +912,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 4. Pensions in respect of service in the service of a State shall not be taxed
 
-### Section 211
+#### Section 211
 
 1. The Attorney General of a state shall have power
 
@@ -922,7 +926,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 3. In exercising his powers under this section, the attorney-General of a state shall have regard to the public interest, the interest of justice and the need to prevent abuse of legal process
 
-### Section 212
+#### Section 212
 
 1. The Governor may -
 
@@ -936,7 +940,9 @@ A person in the public service of a State shall observe and conform to the Code 
 
 2. The powers of the governor under subsection (1) of this section shall be exercised by him after consultation with such advisory council of the state on prerogative of mercy as may be established by law of the State.
 
-### Section 213
+### Part III - Supplemental
+
+#### Section 213
 
 1. Any report of the National Population Commission containing the population census after every census shall be delivered to the President by the Chairman of the commission
 
@@ -952,7 +958,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 - (b) that the report is perverse, the President shall reject the report accordingly and no reliance shall be placed upon any such report by any authority or person or for any purpose what so ever.
 
-### Section 214
+#### Section 214
 
 1. There shall be a police force for Nigeria, which shall be known as the Nigeria Police Force, and subject to the provisions of this section no other police force shall be established for the Federation or any part thereof
 
@@ -964,7 +970,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 - (c) the National Assembly may make provisions for branches of the Nigeria Police Force forming part of the armed forces of the Federation or for the protection of harbours, waterways, railways and air fields
 
-### Section 215
+#### Section 215
 
 1. There shall be -
 
@@ -980,13 +986,13 @@ A person in the public service of a State shall observe and conform to the Code 
 
 5. The question whether any, and if so what, directions have been given under this section shall not be inquired into in any court
 
-### Section 216
+#### Section 216
 
 1. Subject to the provisions of this constitution, the Nigeria Police Council may, with the approval of the President and subject to such conditions as it may think fit, delegate any of the powers conferred upon it by this Constitution to any of its members or to the Inspector-General of Police or any other member of the Nigeria Police Force
 
 2. Before making any appointment to the office of the Inspector-General of Police or removing him from office the President shall consult the Nigeria Police Council.
 
-### Section 217
+#### Section 217
 
  (1) There shall be an armed forces for the Federation which shall consist of an army, a navy, an Air Force and such other branches of the armed forces of the Federation as may be established by an Act of the National Assembly
 
@@ -1002,7 +1008,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 3. The composition of the officer corps an other ranks of the armed forces of the Federation shall reflect the federal character of Nigeria
 
-### Section 218
+#### Section 218
 
 1. The powers of the President as the Commissioner-in-Chief of the Armed Forces of the Federation shall include power to determine the operational use of the armed forces of the Federation
 
@@ -1016,7 +1022,7 @@ A person in the public service of a State shall observe and conform to the Code 
 
 - (b) the appointment, promotion and disciplinary control of members of the armed forces of the Federation
 
-### Section 219
+#### Section 219
 
 The National Assembly shall -
 
@@ -1024,17 +1030,17 @@ The National Assembly shall -
 
 - (b) with respect to the powers exercisable by the President under [section 218](#section-218) of this Constitution, by an Act, established a body which shall comprise such members as theNational Assembly may determine, and which shall have power to ensure that the composition of the armed forces of the Federation shall reflect the federal character of Nigeria in the manner prescribed in the [section 217](#section-217) of this Constitution
 
-### Section 220
+#### Section 220
 
 1. The Federation shall establish and maintain adequate facilities for carrying into effect any Act of the National Assembly providing for compulsory military training or military service for citizens of Nigeria
 
 2. Until an Act of the National Assembly is made in that behalf the President may maintain adequate facilities in any secondary or post-secondary educational institution in Nigeria for giving military training in any such institution which desires to have the training.
 
-### Section 221
+#### Section 221
 
  No association, other than a political party, shall canvass for votes for any candidate at any election or contribute to the funds of any political party or to the election expenses of any candidate at an election
 
-### Section 222
+#### Section 222
 
 No association by whatever name called shall function as a party, unless -
 
@@ -1046,7 +1052,7 @@ No association by whatever name called shall function as a party, unless -
 
 - (d) any alteration in its registered constitution is also registered in the principal office of the Independent National Electoral Commission within thirty days of the making of such alteration (e) the name of the association, its symbol or logo does not contain any ethnic or religious connotation or give the appearance that the activities of the association are confined to a part only of the geographical area of Nigeria; and (f) the headquarters of the association is situated in the Federal Capital Territory, Abuja
 
-### Section 223
+#### Section 223
 
 1. The constitution and rules of a political party shall-
 
@@ -1060,11 +1066,11 @@ No association by whatever name called shall function as a party, unless -
 
 - (b) the members of the executive committee or other governing body of the political character of Nigeria only if the members thereof belong to different states not being less in number than two-thirds of all the states of the Federation and the Federal Capital Territory, Abuja
 
-### Section 224
+#### Section 224
 
 The programme as well as the aims and objects of a political party shall conform with the provisions of Chapter II of this Constitution
 
-### Section 225
+#### Section 225
 
 1. Every political party shall, at such times and in such manner as the independent National Electoral Commission and publish a statement of its assets and liabilities
 
@@ -1082,7 +1088,7 @@ The programme as well as the aims and objects of a political party shall conform
 
 6. The powers conferred on the Commission under subsection (4) of this section may be exercised by it through any member of its staff or any person who is an auditor by profession, and who is not a member of a political party
 
-### Section 226
+#### Section 226
 
 1. The Independent National Electoral commission, shall in every year prepare and submit to the National Assembly a report on the accounts and balance sheet of every political party
 
@@ -1094,11 +1100,11 @@ The programme as well as the aims and objects of a political party shall conform
 
 - (b) be entitled to require from the officers of the political party such information and explanation which to the best of his knowledge and belief are necessary for the purposes of the investigation, the Commission shall state that fact in its report
 
-### Section 227
+#### Section 227
 
 No association shall retain, organise, train or equip any person or group of persons for the purpose of enabling them to be employed for the use or display of physical force or coercion in promoting any political objective or interest or in such manner as to arouse reasonable apprehension that they are organised and trained or equipped for that purpose
 
-### Section 228
+#### Section 228
 
 The National Assembly may by law provide -
 
@@ -1110,6 +1116,6 @@ The National Assembly may by law provide -
 
 - (d) for the conferment on the Commission of other powers as may appear to the National Assembly to be necessary or desirable for the purpose of enabling the Commission more effectively to ensure that political parties observe the provisions of this part of this chapter
 
-### Section 229
+#### Section 229
 
 In this Part of this chapter, unless the context otherwise requires - `"association"` means any body of persons corporate or unincorporate who agree to act together for any commission purpose, and includes an association formed for any ethnic, social, cultural, occupational religious purpose; and `"political party"` includes any association whose activities include canvassing for votes in support of a candidate for election to the office of President, Vice-President, Governor, Deputy Governor or membership of a legislative house or of a local government council.

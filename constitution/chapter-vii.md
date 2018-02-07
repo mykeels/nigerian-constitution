@@ -2,7 +2,9 @@
 
 ## The Judicature
 
-### Section 230
+### Part I - Federal Courts
+
+#### Section 230
 
 1. There shall be a Supreme Court of Nigeria
 
@@ -12,7 +14,7 @@
 
 - (b) such number of Justices of the Supreme Court, not exceeding twenty-one, as may be prescribed by an Act of the National Assembly
 
-### Section 231
+#### Section 231
 
 1. The appointment of a person to the office of Chief Justice of Nigeria shall be made by the President on the recommendation of the National Judicial Council subject to confirmation of such appointment by the Senate
 
@@ -24,7 +26,7 @@
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment, and the President shall not re-appointment a person whose appointment has lapsed
 
-### Section 232
+#### Section 232
 
 1. The Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute between the Federation and a state or between states if and in so far as that dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends
 
@@ -32,7 +34,7 @@
 
 Provided that no original jurisdiction shall be conferred upon the Supreme Court with respect to any criminal matter
 
-### Section 233
+#### Section 233
 
 1. The Supreme Court shall have jurisdiction, to the exclusion of any other court of law in Nigeria, to hear and determine appeals from the Court of Appeal
 
@@ -64,19 +66,19 @@ Provided that no original jurisdiction shall be conferred upon the Supreme Court
 
 6. Any right of appeal to the Supreme Court form the decisions of the Court of Appeal conferred by this section shall, subject to section 236 of this Constitution, be exercised in accordance with any Act of the National Assembly and rules of court for the time being in force regulating the powers, practice and procedure of the Supreme Court
 
-### Section 234
+#### Section 234
 
 For the purpose of exercising any jurisdiction conferred upon it by this Constitution or any Law, the Supreme Court shall be duly constituted if it consists of not less than five Justices of the Supreme Court: Provided that where the Supreme Court is sitting to consider an appeal brought under [233(2)(b)](#section-233) or (c) of this Constitution, or to exercise its original jurisdiction in accordance with [section 232](#section-232) of this Constitution, the Court shall be constituted by seven Justices
 
-### Section 235
+#### Section 235
 
 Without prejudice to the powers of the President or of the Governor of a state with respect to prerogative of mercy, no appeal shall lie to any other body or person from any determination of the Supreme Court
 
-### Section 236
+#### Section 236
 
 Subject to the provisions of any Act of the National Assembly, the Chief Justice of Nigeria may make rules for regulating the practice and procedure of the Supreme Court.
 
-### Section 237
+#### Section 237
 
 1. There shall be a Court of Appeal
 
@@ -86,7 +88,7 @@ Subject to the provisions of any Act of the National Assembly, the Chief Justice
 
 - (b) such number of Justices of the Court of Appeal, not less than forty-nine of which not less than three shall be learned I Islamic personal law, and not less than three shall be learned in Customary law, as may be prescribed by an Act of the National Assembly
 
-### Section 238
+#### Section 238
 
 1. The appointment of a person to the office of President of the Court of appeal shall be made by the President o the recommendation of the National Judicial Council subject to confirmation of such appointment by the senate
 
@@ -98,7 +100,7 @@ Subject to the provisions of any Act of the National Assembly, the Chief Justice
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment, and the President shall not re-appoint a person whose appointment has lapsed
 
-### Section 239
+#### Section 239
 
 1. Subject to the provisions of this Constitution, the Court of Appeal shall, to the exclusion of any other court of Law in Nigeria, have original jurisdiction to hear and determine any question as to whether -
 
@@ -110,11 +112,11 @@ Subject to the provisions of any Act of the National Assembly, the Chief Justice
 
 2. In the hearing and determine of an election petition under paragraph (a) of subsection (1) of this section, the Court of Appeal shall be duly constituted if it consists of at least three Justices of the Court Appeal
 
-### Section 240
+#### Section 240
 
 Subject to the provisions of this Constitution, the Court of Appeal shall have jurisdiction to the exclusion of any other court of law in Nigeria, to hear and determine appeals from the Federal High Court, the High Court of the Federation Capital Territory, Abuja, High Court of a state, Sharia Court of Appeal of the Federal Capital Territory, Abuja, Sharia Court of Appeal of a state, Customary Court of Appeal of a state and from decisions of a court martial or other tribunals as may be prescribed by an Act of the National Assembly
 
-### Section 241
+#### Section 241
 
 1. An appeal shall lie from decisions of the Federal High Court or a High Court to the Court of Appeal as of right in the following cases -
 
@@ -148,13 +150,13 @@ Subject to the provisions of this Constitution, the Court of Appeal shall have j
 
 - (c) without the leave of the Federal High Court or a High Court or of Appeal, from a decision of the Federal High Court High Court made with the consent of the parties or as to costs only
 
-### Section 242
+#### Section 242
 
 1. Subject to the provisions of section 241 of this Constitution, an appeal shall lie from decisions of the Federal High Court or a High Court to the Court of Appeal with the leave of the Federal High Court or that High Court or the Court Appeal
 
 2. The Court of Appeal may dispose of any application for leave to appeal from any decision of the Federal High Court or a High Court in respect of any civil or criminal proceedings in which an appeal has been brought to the Federal High Court or a High Court from any other court after consideration of the record of the proceedings, if the Court of Appeal is of the opinion that the interests of justice do not require an oral hearing of the application
 
-### Section 243
+#### Section 243
 
 Any right of appeal to the Court of Appeal from the decisions of the Federal High Court or a High Court conferred by this Constitution shall be -
 
@@ -162,7 +164,7 @@ Any right of appeal to the Court of Appeal from the decisions of the Federal Hig
 
 - (b) exercised in accordance with any Act of the National Assembly and rules of court for the time being in force regulating the powers, practice and procedure of the Court of Appeal
 
-### Section 244
+#### Section 244
 
 1. An appeal shall lie from decisions of a Sharia Court of Appeal to the Court of Appeal as of right in any civil proceedings before the Sharia Court of Appeal with respect to any question of Islamic personal law which the Sharia Court of Appeal is competent to decide
 
@@ -172,7 +174,7 @@ Any right of appeal to the Court of Appeal from the decisions of the Federal Hig
 
 - (b) exercised in accordance with an Act of the National Assembly and rules of court for the time being in force regulating the powers, practice and procedure of the Court of Appeal
 
-### Section 245
+#### Section 245
 
 1. An appeal shall lie from decisions of a customary Court of Appeal to the Court of Appeal as of right in any civil proceedings before the customary Court of Appeal with respect to any question of Customary law and such other matters as may be prescribed by an Act of the National Assembly
 
@@ -182,7 +184,7 @@ Any right of appeal to the Court of Appeal from the decisions of the Federal Hig
 
 - (b) exercised in accordance with any Act of the National Assembly and rules of court for the time being in force regulating the powers, practice and procedure of the Court of Appeal
 
-### Section 246
+#### Section 246
 
 1. An appeal to the Court of Appeal shall lie as of right from -
 
@@ -200,7 +202,7 @@ Any right of appeal to the Court of Appeal from the decisions of the Federal Hig
 
 3. The decisions of the Court of Appeal in respect of appeals arising from election petitions shall be final
 
-### Section 247
+#### Section 247
 
 1. For the purpose of exercising any jurisdiction conferred upon it by this Constitution or any other law, the Court of Appeal shall be duly constituted if it consists of not less than three Justices of the Court of Appeal and in the case of appeals from -
 
@@ -208,11 +210,11 @@ Any right of appeal to the Court of Appeal from the decisions of the Federal Hig
 
 - (b) a Customary Court of Appeal, if it consists of not less than three Justices of Court of Appeal learned in Customary law
 
-### Section 248
+#### Section 248
 
 Subject to the provisions of any Act of the National Assembly, the president of the Court of Appeal may make rules for regulating the practice and procedure of the Court of Appeal.
 
-### Section 249
+#### Section 249
 
 1. There shall be a Federal High Court
 
@@ -222,7 +224,7 @@ Subject to the provisions of any Act of the National Assembly, the president of 
 
 - (b) such number of Judges of the Federal High Court as may be prescribed by the an Act of the National Assembly
 
-### Section 250
+#### Section 250
 
 1. The appointment of a person to the office of Chief Judge of the Federal High Court shall be made by the President on the recommendation of the National Judicial Council, subject to confirmation of such appointment by the Senate
 
@@ -234,7 +236,7 @@ Subject to the provisions of any Act of the National Assembly, the president of 
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (3) of this section shall cease to have effect after the expiration of three months from the date of such appointment and the President shall not re-appoint a person whose appointment has lapsed
 
-### Section 251
+#### Section 251
 
 1. Notwithstanding anything to the contained in this Constitution and in addition to such other jurisdiction as may be conferred upon it by an Act of the National Assembly, the Federal High Court shall have and exercise jurisdiction to the exclusion of any other court in civil causes and matters -
 
@@ -278,21 +280,21 @@ Subject to the provisions of any Act of the National Assembly, the president of 
 
 3. The Federal High Court shall also have and exercise jurisdiction and powers in respect of criminal causes and matters in respect of which jurisdiction is conferred by subsection (1) of this section
 
-### Section 252
+#### Section 252
 
 1.For the purpose of exercising any jurisdiction conferred upon it by this Constitution or as may be conferred by an Act of the National Assembly, the Federal High Court shall have all the powers of the High Court of a state
 
 2. Notwithstanding subsection (1) of this section, the National Assembly may by law make provisions conferring upon the Federal high Court powers additional to those conferred by this section as may appear necessary or desirable for enabling the Court more effectively to exercise its jurisdiction
 
-### Section 253
+#### Section 253
 
 The Federal High Court shall be duly constituted if it consists of at least one Judge of that Court
 
-### Section 254
+#### Section 254
 
 Subject to the provisions of any Act of the National Assembly, the Chief Judge of the Federal High Court may make rules for regulating the practice and procedure of the Federal High Court.
 
-### Section 255
+#### Section 255
 
 1.There shall be a High Court of the Federal Capital Territory, Abuja
 
@@ -302,7 +304,7 @@ Subject to the provisions of any Act of the National Assembly, the Chief Judge o
 
 - (b) such number of Judges of the High Court as may be prescribed by an Act of the National Assembly
 
-### Section 256
+#### Section 256
 
 1. The appointment of a person to the office of Chief Judge of the High Court of the Federal Capital Territory, Abuja shall be made by the President on the recommendation of the National Judicial council, subject to confirmation of such appointment by the senate
 
@@ -314,21 +316,21 @@ Subject to the provisions of any Act of the National Assembly, the Chief Judge o
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment and the President shall not re-appoint a person whose appointment has lapsed.
 
-### Section 257
+#### Section 257
 
 1. Subject to the provisions of [section 251](#section-251) and any other provisions of this Constitution and in addition to such other jurisdiction as may be conferred upon it by law, the High Court of the Federal Capital Territory, Abuja shall have jurisdiction to hear and determine any civil proceedings in which the existence or extent of a legal right, power, duty, liability privilege, interest, obligation or claim is in issue or to hear and determine any criminal proceedings involving or relating to any penalty, forfeiture, punishment or other liability in respect of an offence committed by any person.
 
 2. The reference to civil or criminal proceedings in this section includes a reference to the proceedings which originate in the High Court of the Federal Capital Territory, Abuja and those which are brought before the High Court of the Federal Capital Territory, Abuja to be dealt with by the Court in the exercise of its appellate or supervisory jurisdiction.
 
-### Section 258
+#### Section 258
 
  The High Court of the Federal Capital Territory, Abuja shall be duly constituted if it consists of at least one Judge of that court
 
-### Section 259
+#### Section 259
 
 Subject to the provisions of any Act of the National Assembly, the Chief Judge of the High Court of the Federal Capital Territory, Abuja may make rules for regulating the practice and procedure of the High Court of the Federal Capital Territory, Abuja.
 
-### Section 260
+#### Section 260
 
 1. There shall be a Sharia Court of Appeal of the Federal Capital Territory, Abuja
 
@@ -338,7 +340,7 @@ Subject to the provisions of any Act of the National Assembly, the Chief Judge o
 
 - (b) such number of Kadis of the Sharia Court of Appeal as may be prescribed by an Act of the National Assembly
 
-### Section 261
+#### Section 261
 
 1. The appointment of a person to the office of the Grand Kadi of the Sharia Court of Appeal of the Federal Capital Territory, Abuja shall be made by the President on the recommendation of the National Judicial Council, subject to confirmation of such appointment by the Senate
 
@@ -358,7 +360,7 @@ Subject to the provisions of any Act of the National Assembly, the Chief Judge o
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment and the President shall not re-appoint a person whose appointment has lapsed
 
-### Section 262
+#### Section 262
 
 1. The Sharia Court of Appeal shall, in addition to such other jurisdiction as may be conferred upon it by an Act of the National Assembly, exercise such appellate and supervisory jurisdiction in civil proceedings involving questions of Islamic personal law
 
@@ -374,15 +376,15 @@ Subject to the provisions of any Act of the National Assembly, the Chief Judge o
 
 - (e) where all the parties to the proceedings, being Muslims, have requested the court that hears the case in the first instance to determine that case in accordance with Islamic personal law, any other question
 
-### Section 263
+#### Section 263
 
 For the purpose of exercising any jurisdiction conferred upon it by this Constitution or any Act of the National Assembly, the Sharia Court of Appeal shall be duly constituted if it consists of at least three Kadis of that Court
 
-### Section 264
+#### Section 264
 
 Subject to the provisions of any Act of the National Assembly, the Grand Kadi of the Sharia Court of Appeal of the Federal Capital Territory, Abuja may make rules for regulating the practice and procedure of the Sharia Court of Appeal of the Federal Capital Territory, Abuja.
 
-### Section 265
+#### Section 265
 
 1. There shall be a Customary Court of Appeal of the Federal Capital Territory, Abuja
 
@@ -392,7 +394,7 @@ Subject to the provisions of any Act of the National Assembly, the Grand Kadi of
 
 - (b) such number of Judges of the Customary Court of Appeal as may be prescribed by an Act of the National Assembly
 
-### Section 266
+#### Section 266
 
 1. The appointment of a person to the office of the President of the Customary Court of Appeal of the Federal Capital Territory, Abuja shall be made by the President on the recommendation of the National Judicial Council, subject to the confirmation of such appointment by the Senate
 
@@ -408,19 +410,21 @@ Subject to the provisions of any Act of the National Assembly, the Grand Kadi of
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment and the President shall no re-appoint a person whose appointment has lapsed
 
-### Section 267
+#### Section 267
 
 The Customary Court of Appeal of the Federal Capital Territory, Abuja shall, in addition to such other jurisdiction as may be conferred upon by an Act of The National Assembly Exercise such appellate and supervisory jurisdiction in civil proceedings involving questions of Customary law
 
-### Section 268
+#### Section 268
 
 For the purpose of exercising any jurisdiction conferred upon it by this Constitution or any Act of the National Assembly, the Customary Court of Appeal shall be duly constituted if it consists of at least three Judges of that Court
 
-### Section 269
+#### Section 269
 
 Subject to the provisions of any Act of the National Assembly, the President of the Customary Court of Appeal of the Federal Capital Territory, Abuja, may make rules for regulating the practice and procedure of the Customary Court of Appeal of the Federal Capital Territory, Abuja.
 
-### Section 270
+### Part II - State Courts
+
+#### Section 270
 
 1. There shall be a High Court for each State of the Federation
 
@@ -430,7 +434,7 @@ Subject to the provisions of any Act of the National Assembly, the President of 
 
 - (b) such number of Judges of the High Court as may be prescribed by a Law of the House of Assembly of the State
 
-### Section 271
+#### Section 271
 
 1. The appointment of a person to the office of Chief Judge of a State shall be made by the Governor of the State on the recommendation of the National Judicial Council subject to confirmation of the appointment by the House of Assembly of the State
 
@@ -442,21 +446,21 @@ Subject to the provisions of any Act of the National Assembly, the President of 
 
 5. Except on the recommendation of the National Judicial Council an appointment pursuant to subsection (4) of this section shall cease to have effect after expiration of three months from the date of such appointment and the Governor shall not re-appoint a person whose appointment has lapsed
 
-### Section 272
+#### Section 272
 
 1. Subject to the provisions of [section 251](#section-251) and other provisions of this Constitution, the High Court of a State shall have jurisdiction to hear and determine any civil proceedings in which the existence or extent of a legal right, power, duty, liability, privilege, interest, obligation or claim is in issue or to hear and determine any criminal proceedings involving or relating to any penalty, forfeiture, punishment or other liability in respect of an offence committed by any person
 
 2. The reference to civil or criminal proceedings in this section includes a reference to the proceedings which originate in the High Court of a State and those which are brought before the High Court to be dealt with by the court in the exercise of its appellate or supervisory jurisdiction
 
-### Section 273
+#### Section 273
 
 For the purpose of exercising any jurisdiction conferred upon it under this Constitution or any law, a High court of a State shall be duly constituted if it consists of at least one Judge of that Court
 
-### Section 274
+#### Section 274
 
 Subject to the provisions of any law made by the House of Assembly of a State, the Chief Judge of a State may make rules for regulating the practice and procedure of the High Court of the State.
 
-### Section 275
+#### Section 275
 
 1. There shall be for any State that requires it a Sharia Court of Appeal for that State
 
@@ -466,7 +470,7 @@ Subject to the provisions of any law made by the House of Assembly of a State, t
 
 - (b) such member of Kadi of the Sharia Court of Appeal as may be prescribed by the House of Assembly of the State
 
-### Section 276
+#### Section 276
 
 1. The appointment of a person to the office of the Grandi Kadi of the Sharia Court of Appeal of a State shall be made by the Governor of the State on the recommendation of the National Judicial Council, subject to confirmation of such appointment by the House of Assembly of the State
 
@@ -486,7 +490,7 @@ Subject to the provisions of any law made by the House of Assembly of a State, t
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment, and the Governor shall not re-appoint a person whose appointment has lapsed
 
-### Section 277
+#### Section 277
 
 1. The sharia Court of Appeal of a State shall, in addition to such other jurisdiction as may be conferred upon it by the law of the State, exercise such appellate and supervisory jurisdiction in civil proceedings involving questions of Islamic personal Law which the court is competent to decide in accordance with the provisions of subsection (2) of this section
 
@@ -500,15 +504,15 @@ Subject to the provisions of any law made by the House of Assembly of a State, t
 
 - (d) any question of Islamic personal Law regarding an infant, prodigal or person of unsound mind who is a muslim or the maintenance or the guardianship of a muslim who is physically or mentally infirm; or (e) where all the parties to the proceedings, being muslims, have requested the court that hears the case in the first instance to determine that case in accordance with Islamic personal law, any other question
 
-### Section 278
+#### Section 278
 
 For the purpose of exercising any jurisdiction conferred upon it this Constitution or any law, a sharia Court of Appeal of a State shall be duly constituted if it consists of at least three kadis of that Court
 
-### Section 279
+#### Section 279
 
 Subject to provisions of any made by the House of Assembly of the State, the Grand Kadi of the Sharia Court of Appeal of the state may make rules regulating the practice and procedure of the Sharia Court of Appeal.
 
-### Section 280
+#### Section 280
 
 1. There shall be for any State that requires it a Customary Court of Appeal for that State
 
@@ -518,7 +522,7 @@ Subject to provisions of any made by the House of Assembly of the State, the Gra
 
 - (b) such number of Judges of the Customary Court of Appeal as may be prescribed by the House of Assembly of the State
 
-### Section 281
+#### Section 281
 
 1. The appointment of a person to the office of President of a Customary Court of Appeal shall be made by the governor of the State on the recommendation of the national Judicial Council, subject to confirmation of such appointment by the House of Assembly of the State
 
@@ -534,21 +538,23 @@ Subject to provisions of any made by the House of Assembly of the State, the Gra
 
 5. Except on the recommendation of the National Judicial Council, an appointment pursuant to subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment, and the Governor shall not re-appoint a person whose appointment has lapsed
 
-### Section 282
+#### Section 282
 
 1. A Customary Court of Appeal of a State shall exercise appellate and supervisory jurisdiction in civil proceedings involve questions of Customary law
 
 2. For the purpose of this section, a Customary Court of Appeal of a State shall exercise such jurisdiction and decide such questions as may be prescribed by the House of Assembly of the State for which it is established
 
-### Section 283
+#### Section 283
 
 For the purpose of exercising any jurisdiction conferred upon it by this Constitution or any law, a Customary Court of Appeal of the State may make rules for regulating the practice and procedure of the Customary Court of Appeal of the State
 
-### Section 284
+#### Section 284
 
 Subject to the provisions of any law by the House of Assembly of the State, the President of the Customary Court of Appeal of the State may make rules for regulating the practice and procedure of the customary Court of Appeal of the State.
 
-### Section 285
+### Part III - Election Tribunals
+
+#### Section 285
 
 1. There shall be established for the Federation one or more election tribunals to be known as the National Assembly Election Tribunals which shall, to the exclusion of any or tribunal, have original jurisdiction to hear and determine petitions as to whether -
 
@@ -564,11 +570,13 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 
 4. The quorum of an election tribunal established under this section shall be the Chairman and two other members.
 
-### Section 286
+### Part IV - Supplemental
+
+#### Section 286
 
 1. Subject to the provisions of this Constitution -
 
-### Section 287
+#### Section 287
 
 1. The decisions of the Supreme court shall be enforced in any part of the Federation by all authorities and persons, and by courts with subordinate jurisdiction to that of the supreme Court.
 
@@ -576,7 +584,7 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 
 3. The decisions of the Federal High Court, a High Court and of all other courts established by this Constitution shall be enforced in any part of the Federation by all authorities and persons, and by other courts of law with subordinate jurisdiction to that of the Federal High Court, a High Court and those other courts, respectively.
 
-### Section 288
+#### Section 288
 
 1. In exercising his powers under the foregoing provisions of this Chapter in respect of appointments to the offices of Justices of the Supreme court and Justices of the Court of Appeal, the President shall have regard to the need to ensure that there are among the holders of such offices persons learned in Islamic personal law and persons learned in Customary law.
 
@@ -586,17 +594,17 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 
 - (b) a person shall be deemed to be learned in Customary law if he is a legal practitioner in Nigeria and has been so qualified for a period of not less than fifteen years in the case of a Justice of the Supreme Court or not less than twelve years in the case of a Justice of the Court of Appeal and has in either case and in the opinion of the National Judicial Council considerable knowledge of and experience in the practice of Customary law.
 
-### Section 289
+#### Section 289
 
  No legal practitioner shall be qualified for appointment as a Justice of the Supreme Court, the Court of Appeal or a Judge of a Federal High Court or a Judge of a High Court or a kadi of a Sharia Court of Appeal or a Judge of the Customary Court of Appeal whilst he is a member of the National Judicial Council or Committee of the Federal Capital Territory, Abuja or a State Judicial Service Commission, and he shall remain so disqualified until a period of three years has elapsed since he ceased to be member.
 
-### Section 290
+#### Section 290
 
 1. A person appointed to any judicial office shall not begin to perform the functions of that office until he has declared his assets and liabilities as prescribed under this Constitution and has subsequently taken and subscribed the Oath of Allegiance and the Judicial Oath prescribed in the seventh Schedule to this Constitution.
 
 2. The oaths aforesaid shall be administered by the person for the time being authorized by law to administer such oaths.
 
-### Section 291
+#### Section 291
 
 1. A judicial officer appointed to the Supreme Court or the Court of Appeal may retire when he attains the age of sixty-five years and he shall cease to hold office when he attains the age of seventy years.
 
@@ -612,15 +620,15 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 
 4. Nothing in this section or elsewhere in this Constitution shall preclude the application of the provisions of any other law that provides for pensions, gratuities and other retirement benefits for persons in the public service of the Federation or a State.
 
-### Section 292
+#### Section 292
 
 1. A judicial officer shall not be removed from his office or appointment before his age of retirement except in the following circumstances -
 
-### Section 293
+#### Section 293
 
  Except for the purposes of exercising any jurisdiction conferred by this Constitution or by any other law, every court established under this Constitution shall be deemed to be duly constituted notwithstanding any vacancy in the membership of the court.
 
-### Section 294
+#### Section 294
 
 1. Every court established under this Constitution shall deliver its decision in writing not later than ninety days after the conclusion of evidence and final addresses and furnish all parties to the cause or matter determined with duly authenticated copies of the decision within seven days of the delivery thereof.
 
@@ -634,7 +642,7 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 
 6. As soon as possible after hearing and deciding any case in which it has been determined or observed that there was non-compliance with the provisions of subsection (1) of this section, the person presiding at the sitting of the court shall send a report on the case to the Chairman of the National Judicial Council who shall keep the Council informed of such action as the Council may deem fit.
 
-### Section 295
+#### Section 295
 
 1. Where any question as to the interpretation or application of this Constitution arises in any proceedings in any court of law in any part of Nigeria (other than in the Supreme Court, the Court of Appeal, the Federal High Court or a High Court) and the court is of the opinion that the question involves a substantial question of law, the court may, and shall if any of the parties to the proceedings so requests, refer the question to the Federal High Court or a High Court having jurisdiction in that part of Nigeria and the Federal High Court or the High Court shall
 
@@ -646,6 +654,6 @@ Subject to the provisions of any law by the House of Assembly of the State, the 
 
 3. Where any question as to the interpretation or application of this constitution arises in any proceedings in the Court of Appeal and the court is of opinion that the question involves a substantial question of law, the court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court which shall give its decision upon the question and give such directions to the Court of Appeal as it deems appropriate.
 
-### Section 296
+#### Section 296
 
 In this Chapter, unless the context otherwise requires, `"office"` when used with reference to the validity of an election to an office includes the office of President of the Federation, Vice-President of the Federation and Governor or Deputy Governor of a State but does not include the office of President of the Senate, Speaker of the House of Representatives, Speaker of a House of Assembly or any office established by this Constitution.

@@ -2,7 +2,9 @@
 
 ## General Provisions
 
-### Section 1
+### Part I - Federal Republic of Nigeria
+
+#### Section 1
 
 1. This Constitution is supreme and its provisions shall have binding force on the authorities and persons throughout the Federal Republic of Nigeria.
 
@@ -10,13 +12,13 @@
 
 3. If any other law is inconsistent with the provisions of this Constitution, this Constitution shall prevail, and that other law shall, to the extent of the inconsistency, be void.
 
-### Section 2
+#### Section 2
 
 1. Nigeria is one indivisible and indissoluble sovereign state to be known by the name of the Federal Republic of Nigeria
 
 2. Nigeria shall be a Federation consisting of States and a Federal Capital Territory
 
-### Section 3
+#### Section 3
 
 1. There shall be 36 states in Nigeria, that is to say, Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe and Zamfara
 
@@ -30,7 +32,9 @@
 
 6. There shall be 768 Local Government Areas in Nigeria as shown in the second column of Part I of the First Schedule to this Constitution and six area councils as shown in Part II of that Schedule.
 
-### Section 4
+### Part II - Powers of the Federal Republic of Nigeria
+
+#### Section 4
 
 1. The legislative powers of the Federal Republic of Nigeria shall be vested in a National Assembly for the Federation, which shall consist of a Senate and a House of Representatives
 
@@ -56,7 +60,7 @@
 
 9. Notwithstanding the foregoing provisions of this section, the National Assembly or a House of Assembly shall not, in relation to any criminal offence whatsoever, have power to make any law which shall have retrospective effect
 
-### Section 5
+#### Section 5
 
 1. Subject to the provisions of this Constitution, the executive powers of the Federation:
 
@@ -86,7 +90,7 @@
 
 5. Notwithstanding the provisions of subsection (4) of this section, the President, in consultation with the National Defence Council, may deploy members of the armed forces of the Federation on a limited combat duty outside Nigeria if he is satisfied that the national security is under imminent threat or danger: Provided that the President shall, within seven days of actual combat engagement, seek the consent of the Senate and the Senate shall thereafter give or refuse the said consent within 14 days
 
-### Section 6
+#### Section 6
 
 1. The judicial powers of the Federation shall be vested in the courts to which this section relates, being courts established for the Federation
 
@@ -134,7 +138,7 @@
 
 - (d) shall not, as from the date when this section comes into force, extend to any action or proceedings relating to any existing law made on or after 15th January, 1966 for determining any issue or question as to the competence of any authority or person to make any such law
 
-### Section 7
+#### Section 7
 
 1. The system of local government by democratically elected local government councils is under this Constitution guaranteed; and accordingly, the Government of every State shall, subject to [section 8](#section-8) of this Constitution, ensure their existence under a Law which provides for the establishment, structure, composition, finance and functions of such councils
 
@@ -156,7 +160,7 @@
 
 6. Subject to the provisions of this Constitution - (a) the National Assembly shall make provisions for statutory allocation of public revenue to local government councils in the Federation; and (b) the House of Assembly of a State shall make provisions for statutory allocation of public revenue to local government councils within the State
 
-### Section 8
+#### Section 8
 
 1. An Act of the National Assembly for the purpose of creating a new State shall only be passed if-
 
@@ -216,7 +220,7 @@
 
 6. For the purpose of enabling the National Assembly to exercise the powers conferred upon it by subsection (5) of this section, each House of Assembly shall, after the creation of more local government areas pursuant to subsection (3) of this section, make adequate returns to each House of the National Assembly
 
-### Section 9
+#### Section 9
 
 1. The National Assembly may, subject to the provision of this section, alter any of the provisions of this Constitution
 
@@ -226,11 +230,11 @@
 
 4. For the purposes of section 8 of this Constitution and of subsections (2) and (3) of this section, the number of members of each House of the National Assembly shall, notwithstanding any vacancy, be deemed to be the number of members specified in [sections 48](./chapter-v.md#section-48) and [49](./chapter-v.md#section-48) of this Constitution
 
-### Section 10
+#### Section 10
 
 The Government of the Federation or of a State shall not adopt any religion as State Religion
 
-### Section 11
+#### Section 11
 
 1. The National Assembly may make laws for the Federation or any part therefore with respect to the maintenance and securing of public safety and public order and providing, maintaining and securing of such supplies and service as may be designed by the National Assembly as essential supplies and services
 
@@ -242,7 +246,7 @@ The Government of the Federation or of a State shall not adopt any religion as S
 
 5. For the purposes of subsection (4) of this section, a House of Assembly shall not be deemed to be unable to perform its functions so long as the House of Assembly can hold a meeting and transact business
 
-### Section 12
+#### Section 12
 
 1. No treaty between the Federation and any other country shall have the force of law to the extent to which any such treaty has been enacted into law by the National Assembly
 

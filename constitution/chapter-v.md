@@ -2,19 +2,21 @@
 
 ## The Legislature
 
-### Section 47
+### Part 1 - National Assembly
+
+#### Section 47
 
 There shall be a National Assembly for the Federation which shall consist of a Senate and a House of Representatives
 
-### Section 48
+#### Section 48
 
 The Senate shall consist of three Senators from each State and one from the Federal Capital Territory, Abuja
 
-### Section 49
+#### Section 49
 
 Subject to the provisions of this Constitution, the House of Representatives shall consist of three hundred and sixty members representing constituencies of nearly equal population as far as possible, provided that no constituency shall fall within more than one State
 
-### Section 50
+#### Section 50
 
 1. There shall be:-
 
@@ -30,19 +32,19 @@ Subject to the provisions of this Constitution, the House of Representatives sha
 
 - (c) if he is removed from office by a resolution of the Senate or of the House of Representatives, as the case may be, by the votes of not less than two-thirds majority of the members of that House
 
-### Section 51
+#### Section 51
 
 There shall be a Clerk to the National Assembly and such other staff as may be prescribed by an Act of the National Assembly, and the method of appointment of the Clerk and other staff of the National Assembly shall be as prescribed by that tab
 
 ## B - Procedure for Summoning and Dissolution of National Assembly
 
-### Section 52
+#### Section 52
 
 1. Every member of the Senate or the House of Representatives shall, before taking his seat, declare his assets and liabilities as prescribed in this Constitution and subsequently take and subscribe the Oath of Allegiance and the oath of membership as prescribed in the Seventh Schedule to this Constitution before the President of the Senate or, as the case may be, the Speaker of the House of Representatives, but a member may before taking the oaths take part in the election of a President and a Deputy President of the Senate, as the case may be, or a Speaker and a Deputy Speaker of the House of Representatives
 
 2. The President and Deputy President of the Senate and the Speaker and the Deputy Speaker of the House of Representatives shall declare their assets and liabilities as prescribed in this Constitution and subsequently take and subscribe the Oath of Allegiance and the oath of membership prescribed as aforesaid before the Clerk of the National Assembly
 
-### Section 53
+#### Section 53
 
 1. At any sitting of the National Assembly -
 
@@ -58,7 +60,7 @@ There shall be a Clerk to the National Assembly and such other staff as may be p
 
 3. In the absence of the persons mentioned in the foregoing provisions of this section, such member of the Senate or the House of Representatives or of the joint sitting, as the case may be, as the Senate or the House of Representatives or the joint sitting may elect for that purpose shall preside
 
-### Section 54
+#### Section 54
 
 1. The quorum of the Senate or of the House of Representatives shall be one-third of all the members on of the Legislative House concerned
 
@@ -68,11 +70,11 @@ There shall be a Clerk to the National Assembly and such other staff as may be p
 
 4. The foregoing provisions of this section shall apply in relation to a joint sitting of both Houses of the National Assembly as they apply in relation to a House of the National Assembly as if references to the Senate or the House of Representatives and a member of either Houses are references to both Houses and to any member of the National Assembly, respectively
 
-### Section 55
+#### Section 55
 
 The business of the National Assembly shall be conducted in English, and in Hausa, Ibo and Yoruba when adequate arrangements have been made therefor
 
-### Section 56
+#### Section 56
 
 1. Except as otherwise provided by this Constitution any question proposed for decision in the Senate or the House of Representatives shall be determined by the required majority or the members present and voting; and the person presiding shall cast a vote whenever necessary y to avoid an equality of votes but shall not vote in any other case
 
@@ -88,11 +90,11 @@ The business of the National Assembly shall be conducted in English, and in Haus
 
 - (d) for such other matters pertaining to the foregoing as the House may think necessary, but nothing in the foregoing provisions shall enable any rules to be made to require any member, who signifies his intention not to vote on or participate in such matter, and who does not so vote or participate, to declare any such interest
 
-### Section 57
+#### Section 57
 
 Any person who sits or votes in the Senate or the House of Representatives knowing or having reasonable grounds for knowing that he is not entitled to do so commits an offence and is liable on conviction to such punishment as shall be prescribed by an Act of the National Assembly
 
-### Section 58
+#### Section 58
 
 1. The power of the National Assembly to make laws shall be exercised by bills passed by both the Senate and the House of Representatives and, except as otherwise provided by subsection (5) of this section, assented to by the President
 
@@ -104,7 +106,7 @@ Any person who sits or votes in the Senate or the House of Representatives knowi
 
 5. Where the President withholds his assent and the bill is again passed by each House by two-thirds majority, the bill shall become law and the assent of the President shall not be required
 
-### Section 59
+#### Section 59
 
 1. The provisions of this section shall apply to: (a) an appropriation bill or a supplementary appropriation bill, including any other bill for the payment, issue or withdrawal from the Consolidated Revenue Fund or any other public fund of the Federation of any money charged thereon or any alteration in the amount of such a payment, issue or withdrawal; and (b) a bill for the imposition of or increase in any tax, duty or fee or any reduction, withdrawal or cancellation thereof
 
@@ -116,15 +118,15 @@ Any person who sits or votes in the Senate or the House of Representatives knowi
 
 5. In this section, "joint finance committee" refers to the joint committee of the National Assembly on finance established pursuant to [section 62(3)](#section-63) of this Constitution
 
-### Section 60
+#### Section 60
 
 Subject to the provisions of this Constitution, the Senate or the House of Representatives shall have power to regulate its own procedure, including the procedure for summoning and recess of the House
 
-### Section 61
+#### Section 61
 
 The Senate or the House of Representatives may act notwithstanding any vacancy in its membership, and the presence or participation of any person not entitled to be present at or to participate in the proceedings of the House shall not invalidate those proceedings
 
-### Section 62
+#### Section 62
 
 1. The Senate or the House of Representatives may appoint a committee of its members for such special or general purpose as in its opinion would be better regulated and managed by means of such a committee, and may by resolution, regulation or otherwise, as it thinks fit, delegate any functions exercisable by it to any such committee
 
@@ -134,11 +136,11 @@ The Senate or the House of Representatives may act notwithstanding any vacancy i
 
 4. Nothing in this section shall be construed as authorising such House to delegate to a committee the power to decide whether a bill shall be passed into law or to determine any matter which it is empowered to determine by resolution under the provisions of this Constitution, but the committee may be authorised to make recommendations to the House on any such matter
 
-### Section 63
+#### Section 63
 
 The Senate and the House of Representatives shall each sit for a period of not less than one hundred and eighty-one days in a year
 
-### Section 64
+#### Section 64
 
 1. The Senate and the House of Representatives shall each stand dissolved at the expiration of a period of four years commencing from the date of the first sitting of the House
 
@@ -146,7 +148,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 3. Subject to the provisions of this Constitution, the person elected as the President shall have power to issue a proclamation for the holding of the first session of the National Assembly immediately after his being sworn in, or for its dissolution as provided in this section.
 
-### Section 65
+#### Section 65
 
 1. Subject to the provisions of section 66 of this Constitution, a person shall be qualified for election as a member of:
 
@@ -160,7 +162,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 - (b) he is a member of a political party and is sponsored by that party
 
-### Section 66
+#### Section 66
 
 1. No person shall be qualified for election to the Senate or the House of Representatives if:
 
@@ -194,7 +196,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 3. For the purposes of subsection (2) of this section `"appeal"` includes any application for an injunction or an order certiorari, mandamus, prohibition or habeas corpus, or any appeal from any such application
 
-### Section 67
+#### Section 67
 
 1. The President may attend any joint meeting of the National Assembly or any meeting of either House of the National Assembly, either to deliver an address on national affairs including fiscal measures, or to make such statement on the policy of government as he considers to be of national importance
 
@@ -202,7 +204,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 3. Nothing in this section shall enable any person who is not a member of the Senate or of the House of Representatives to vote in that House or in any of its committees
 
-### Section 68
+#### Section 68
 
 1. A member of the Senate or of the House of Representatives shall vacate his seat in the House of which he is a member if -
 
@@ -226,7 +228,7 @@ The Senate and the House of Representatives shall each sit for a period of not l
 
 3. A member of the Senate or of the House of Representatives shall be deemed to be absent without just cause from a meeting of the House of which he is a member, unless the person presiding certifies in writing that he is satisfied that the absence of the member from the meeting was for a just cause
 
-### Section 69
+#### Section 69
 
 A member of the Senate or of the House Representatives may be recalled as such a member if -
 
@@ -234,11 +236,11 @@ A member of the Senate or of the House Representatives may be recalled as such a
 
 - (b) the petition is thereafter, in a referendum conducted by the Independent National Electoral Commission within ninety days of the date of receipt of the petition, approved by a simple majority of the votes of the persons registered to vote in that member's constituency
 
-### Section 70
+#### Section 70
 
 A member of the Senate or of the House of Representatives shall receive such salary and other allowances as Revenue Mobilisation Allocation and Fiscal Commission may determine
 
-### Section 71
+#### Section 71
 
 Subject to the provisions of section 72 of this Constitution, the Independent National Electoral Commission shall -
 
@@ -246,41 +248,41 @@ Subject to the provisions of section 72 of this Constitution, the Independent Na
 
 - (b) subject to the provisions of section 49 of this Constitution, divide the Federation into three hundred and sixty Federal constituencies for purposes of elections to the House of Representatives
 
-### Section 72
+#### Section 72
 
 No Senatorial district or Federal constituency shall fall within more than one State, and the boundaries of each district or constituency shall be as contiguous as possible and be such that the number of inhabitants thereof is as nearly equal to the population quota as is reasonably practicable
 
-### Section 73
+#### Section 73
 
 1. The Independent National Electoral Commission shall review the division of States and of the Federation into Senatorial districts and Federal constituencies at intervals of not less than ten years, and may alter the districts or constituencies in accordance with the provisions of this section to such extent as it may consider desirable in the light of the review
 
 2. Notwithstanding subsection (1) of this section, the Independent National Electoral Commission may at any time carry out such a review and alter the districts or constituencies in accordance with the provisions of this section to such extent as it considers necessary, in consequence of any amendment to section 8 of this Constitution or any provision replacing that section, or by reason of the holding of a census of the population, or pursuant to an Act of the National Assembly
 
-### Section 74
+#### Section 74
 
 Where the boundaries of any Senatorial district or Federal constituency established under [section 71](#section-71) of this Constitution are altered in accordance with the provisions [section 73](#section-73) hereof, the alteration shall come into effect after it has been approved by each House of the National Assembly and after the current life of the Senate (in the case of an alteration to the boundaries of a Senatorial district) or the House of s (in the case of an alteration to the boundaries of a Federal constituency)
 
-### Section 75
+#### Section 75
 
 For the purposes of [section 72](#section-72) of this Constitution, the number of inhabitants of Nigeria or any part thereof shall be ascertained by reference to the 1991 census of the population of Nigeria or the latest census held in pursuance of an Act of the National Assembly after the coming into force of the provisions of this Part of this Chapter of this Constitution
 
-### Section 76
+#### Section 76
 
 1. Elections to each House of the National Assembly shall be held on a date to be appointed by the Independent National Electoral Commission
 
 2. The date mentioned in subsection (1) of this section shall not be earlier than sixty days before and not later than the date on which the House stands dissolved, or where the election to fill a vacancy occurring more than three months before such date; not later than one month after the vacancy occurred
 
-### Section 77
+#### Section 77
 
 1. Subject to the provisions of this Constitution, every Senatorial district or Federal constituency established in accordance with the provisions of this Part of this Chapter shall return a member who shall be directly elected to the Senate or the House of Representatives in such manner as may be prescribed by an act of the National Assembly
 
 2. Every citizen of Nigeria, who has attained the age of eighteen years residing in Nigeria at the time of the registration of voters for purposes of election to a legislative house, shall be entitled to be registered as a voter for that election
 
-### Section 78
+#### Section 78
 
 The registration of voters and the conduct of elections shall be subject to the direction and supervision of Independent National Electoral Commission
 
-### Section 79
+#### Section 79
 
 The National Assembly shall make provisions in respects -
 
@@ -294,7 +296,7 @@ The National Assembly shall make provisions in respects -
 
 - (c) powers, practice and procedure of the election tribunal in relation to any such application.
 
-### Section 80
+#### Section 80
 
 1. All revenues or other moneys raised or received by the Federation (not being revenues or other moneys payable under this Constitution or any Act of the National Assembly into any other public fund of the Federation established for a specific purpose) shall be paid into and form one Consolidated Revenue Fund of the Federation
 
@@ -304,7 +306,7 @@ The National Assembly shall make provisions in respects -
 
 4. No moneys shall be withdrawn from the Consolidated Revenue Fund or any other public fund of the Federation, except in the manner prescribed by the National Assembly
 
-### Section 81
+#### Section 81
 
 1. The President shall cause to be prepared and laid before each House of the National Assembly at any time in each financial year estimates of the revenues and expenditure of the Federation for the next following financial year
 
@@ -318,17 +320,17 @@ The National Assembly shall make provisions in respects -
 
 - (b) a need has arisen for expenditure for a purpose for which no amount has been appropriated by the Act, a supplementary estimate showing the sums required shall be laid before each House of the National Assembly and the heads of any such expenditure shall be included in a Supplementary Appropriation Bill
 
-### Section 82
+#### Section 82
 
 If the Appropriation Bill in respect of any financial year has not been passed into law by the beginning of the financial year, the President may authorise the withdrawal of moneys in the Consolidated Revenue Fund of the Federation for the purpose of meeting expenditure necessary to carry on the services of the Government of the Federation for a period not exceeding months or until the coming into operation of the Appropriate Act, whichever is the earlier: Provided that the withdrawal in respect of any such period shall not exceed the amount authorised to be withdrawn from the Consolidated Revenue Fund of the Federation under the provisions of the Appropriation Act passed by the National Assembly for the corresponding period in the immediately preceding financial year, being an amount proportionate to the total amount so authorised for the immediately preceding financial year
 
-### Section 83
+#### Section 83
 
 1. The National Assembly may by law make provisions for the establishment of a Contingencies Fund for the Federation and for authorising the President, if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from the Fund to meet the need
 
 2. Where any advance is made in accordance with the provisions of this section, a Supplementary Estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purpose of replacing the amount so advanced
 
-### Section 84
+#### Section 84
 
 1. There shall be paid to the holders of the offices mentioned in this section such remuneration, salaries and allowances as may be prescribed by the National Assembly, but not exceeding the amount as shall have been determined by the Revenue Mobilisation Allocation and Fiscal Commission
 
@@ -344,7 +346,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 7. The recurrent expenditure of judicial offices in the Federation (in addition to salaries and allowances of the judicial officers mentioned in subsection (4) of this section) shall be charge upon the Consolidated Revenue Fund of the Federation
 
-### Section 85
+#### Section 85
 
 1. There shall be an Auditor-General for the Federation who shall be appointed in accordance with the provisions of section 86 of this Constitution
 
@@ -358,7 +360,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 6. In the exercise of his functions under this Constitution, the Auditor-General shall not be subject to the direction or control of any other authority or person
 
-### Section 86
+#### Section 86
 
 1. The Auditor-General for the Federation shall be appointed by the President on the recommendation of the Federal Civil Service Commission subject to confirmation by the Senate
 
@@ -366,13 +368,13 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 3. Except with the sanction of a resolution of the Senate, no person shall act in the office of the Auditor-General for a period exceeding six months
 
-### Section 87
+#### Section 87
 
 1. A person holding the office of the Auditor-General for the Federation shall be removed from office by the President acting on an address supported by two-thirds majority of the Senate praying that he be so removed for inability to discharge the functions of his-office (whether arising from infirmity of mind or body or any other cause) or for misconduct
 
 2. The Auditor-General shall not be removed from office before such retiring age as may be prescribed by law, save in accordance with the provisions of this section
 
-### Section 88
+#### Section 88
 
 1. Subject to the provisions of this Constitution, each House of the National Assembly shall have power by resolution published in its journal or in the Official Gazette of the Government of the Federation to direct or cause to be directed investigation into -
 
@@ -390,7 +392,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 - (b) expose corruption, inefficiency or waste in the execution or administration of laws within its legislative competence and in the disbursement or administration of funds appropriated by it
 
-### Section 89
+#### Section 89
 
 1. For the purposes of any investigation under section 88 of this Constitutional and subject to the provisions thereof, the Senate or the House of Representatives or a committee appointed in accordance with section 62 of this Constitution shall have power to -
 
@@ -404,15 +406,17 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 2. A summons or warrant issued under this section may be served or executed by any member of the Nigeria Police Force or by any person authorised in that behalf by the President of the Senate or the Speaker of the House of Representatives, as the case may require.
 
-### Section 90
+### Part II - House of Assembly of a State
+
+#### Section 90
 
  There shall be a House of Assembly for each of the States of the Federation
 
-### Section 91
+#### Section 91
 
 Subject to the provisions of this Constitution, a House of Assembly of a State shall consist of three or four times the number of seats which that State has in the House of Representatives divided in a way to reflect, as far as possible nearly equal population: Provided that a House of Assembly of a State shall consist of not less than twenty-four and not more than forty members
 
-### Section 92
+#### Section 92
 
 1. There shall be a Speaker and a Deputy Speaker of a House of Assembly who shall be elected by the members of the House from among themselves
 
@@ -422,35 +426,35 @@ Subject to the provisions of this Constitution, a House of Assembly of a State s
 
 - (b) When the House first sits after any dissolution of House; or (c) if he is removed from office by a resolution of House of Assembly by the votes of not less than two-third majority of the members of the House
 
-### Section 93
+#### Section 93
 
 There shall be a Clerk to a House of Assembly and such other staff as may be prescribed by a Law enacted by the House of Assembly, and the method of appointment of the Clerk and other staff of the House shall be as prescribed by that Law
 
 ## B - Procedure for Summoning and Dissolution of House of Assembly
 
-### Section 94
+#### Section 94
 
 1. Every person elected to a House of Assembly shall before taking his seat in that House, declare his assets and liabilities in the manner prescribed in this Constitution and subsequently take and subscribe before the Speaker of the House, the Oath of Allegiance and oath of membership prescribed in the Seventh Schedule to this Constitution, but a member may, before taking the oaths, take part in the election of the Speaker and Deputy Speaker of the House of Assembly
 
 2. The Speaker and Deputy Speaker of a House of Assembly shall declare their assets and liabilities in the manner prescribed by this Constitution and subsequently take and subscribe to the Oath of Allegiance and the oath of membership prescribed as aforesaid before the Clerk of the House of Assembly
 
-### Section 95
+#### Section 95
 
 1. At any sitting of a House of Assembly, the Speaker of that House shall preside, and in his absence the Deputy Speaker shall preside
 
 2. In the absence of the Speaker and Deputy Speaker of the House, such member of the House as the House may elect for a purpose shall preside
 
-### Section 96
+#### Section 96
 
 1. The quorum of a House of Assembly shall be one-third of all the members of the House
 
 2. If objection is taken by any member of a House of Assembly present that there are present in that House (besides the person presiding) fewer than one-third of all the members of that House and that it is not competent for the House to transact business, and after such interval as may be prescribed in the rules of procedure of the House, the person presiding ascertains that the number of members present is still less than one-third of all the members of the House, he shall adjourn the House
 
-### Section 97
+#### Section 97
 
 The business of a House of Assembly shall be conducted in English, but the House may in addition to English conduct the business of the House in one or more other languages spoken in the State as the House may by resolution approve
 
-### Section 98
+#### Section 98
 
 1. Except as otherwise provided by this Constitution, any question proposed for decision in a House of Assembly shall be determined by the required majority of the members present and voting; and the person presiding shall cast a vote whenever necessary to avoid an equality of votes but shall not vote in any other case
 
@@ -458,11 +462,11 @@ The business of a House of Assembly shall be conducted in English, but the House
 
 3. A House of Assembly shall by its rules provide - (a) that a member of the House shall declare any direct pecuniary interest he may have in any matter coming before the House for deliberation; (b) that the House may by resolution decide whether or not such member may vote or participate in its deliberations, on such matter; (c) the penalty, if any, which the House may impose for failure to declare any direct pecuniary interest such member may have; and (d) for such other matters pertaining to the foregoing as the House may think necessary, but nothing in this subsection shall enable any rules to be made to require any member, who signifies his intention not to vote on or participate in such matter, and who does not so vote or participate, to declare any such interest
 
-### Section 99
+#### Section 99
 
 Any person who sits or votes in a House of Assembly of a State knowing or having reasonable grounds for knowing that he is not entitled to do so commits an offence and is liable on conviction to such punishment as shall be prescribed by a Law of the House of Assembly
 
-### Section 100
+#### Section 100
 
 1. The power of a House of Assembly to make laws shall be exercised by bills passed by the House of Assembly and, except as otherwise provided by this section, assented to by the Governor
 
@@ -474,15 +478,15 @@ Any person who sits or votes in a House of Assembly of a State knowing or having
 
 5. Where the Governor withholds assent and the bill is again passed by the House of Assembly by two-thirds majority, the bill shall become law and the assent of the Governor shall not be required
 
-### Section 101
+#### Section 101
 
 Subject to the provisions of this Constitution, a House of Assembly shall have power to regulate its own procedure, including the procedure for summoning and recess of the House
 
-### Section 102
+#### Section 102
 
 A House of Assembly may act notwithstanding any vacancy in its membership, and the presence or participation of any person not entitled to be present at or to participate in the proceedings of the House shall not invalidate such proceedings
 
-### Section 103
+#### Section 103
 
 1. A House of Assembly may appoint a committee of its members for any special or general purpose as in its opinion would be better regulated and managed by means of such a committee, and may by resolution, regulation or otherwise as it thinks fit delegate any functions exercisable by it to any such committee
 
@@ -490,11 +494,11 @@ A House of Assembly may act notwithstanding any vacancy in its membership, and t
 
 3. Nothing in this section shall be construed as authorising a House of Assembly to delegate to a committee the power to decide whether a bill shall be passed into Law or to determine any matter which it is empowered to determine by resolution under the provisions of this Constitution, but such a committee of the House may be authorised to make recommendations to the House on any such matter
 
-### Section 104
+#### Section 104
 
 A House of Assembly shall sit for a period of not less than one hundred and eighty-one days in a year
 
-### Section 105
+#### Section 105
 
 1. A House of Assembly shall stand dissolved at the expiration of a period of four years commencing from the date of the first sitting of the House
 
@@ -502,11 +506,11 @@ A House of Assembly shall sit for a period of not less than one hundred and eigh
 
 3. Subject to the provisions of this Constitution, the person elected as the Governor of a State shall have power to issue a proclamation for the holding of the first session of the House of Assembly of the State concerned immediately after his being sworn in, or for its dissolution as provided in this section.
 
-### Section 106
+#### Section 106
 
  Subject to the provisions of section 107 of this Constitution, a person shall be qualified for election as a member of a House of Assembly if - (a) he is a citizen of Nigeria; (b) he has attained the age of thirty years; (c) he has been educated up to at least the School Certificate level or its equivalent; and (d) he is a member of a political party and is sponsored by that party
 
-### Section 107
+#### Section 107
 
 1. No person shall be qualified for election to a House of Assembly if -
 
@@ -540,7 +544,7 @@ A House of Assembly shall sit for a period of not less than one hundred and eigh
 
 3. For the purposes of subsection (2) of this section, an "appeal" includes any application for an injunction or an order of certiorari, mandamus, prohibition or habeas corpus, or any appeal from any such application
 
-### Section 108
+#### Section 108
 
 1. The Governor of a State may attend a meeting of a House of Assembly of the State either to deliver an address on State affairs or to make such statement on the policy of government as he may consider to be of importance to the State
 
@@ -548,7 +552,7 @@ A House of Assembly shall sit for a period of not less than one hundred and eigh
 
 3. Nothing in this section shall enable any person who is not a member of a House of Assembly to vote in that House or in any of its committees
 
-### Section 109
+#### Section 109
 
 1. A member of a House of Assembly shall vacate his seat in the House if -
 
@@ -572,7 +576,7 @@ A House of Assembly shall sit for a period of not less than one hundred and eigh
 
 3. A member of a House of Assembly shall be deemed to be absent without just cause from a meeting of the House of Assembly unless the person presiding certifies in writing that he is satisfied that the absence of the member from the meeting was for a just cause
 
-### Section 110
+#### Section 110
 
 A member of the House of Assembly may be recalled as such a member if -
 
@@ -580,45 +584,45 @@ A member of the House of Assembly may be recalled as such a member if -
 
 - (b) the petition is thereafter, in a referendum conducted by the Independent National Electoral Commission within ninety days of the date of the receipt of the petition, approved by a simple majority of the votes of the persons registered to vote in that member's constituency
 
-### Section 111
+#### Section 111
 
 A member of the House of Assembly shall receive such salary and other allowances as the Revenue Mobilisation Allocation and Fiscal Commission may determine.
 
-### Section 112
+#### Section 112
 
  Subject to the provisions of sections 91 and 113 of this Constitution, the Independent National Electoral Commission shall divide every state in the federation into such number of state constituencies as is equal to three or four times the number of Federal constituencies within that state
 
-### Section 113
+#### Section 113
 
 The boundaries of each State constituency shall be such that the number of inhabitants thereof is as nearly equal to the population quota as is reasonably practicable
 
-### Section 114
+#### Section 114
 
 1. The Independent National Electoral Commission shall review the division of every State into constituencies at intervals of not less than ten years, and may alter such constituencies in accordance with the provisions of this section to such extent as it may consider desirable in the light of the review
 
 2. The Independent National Electoral Commission may at any time carry out such a review and alter the constituencies in accordance with the provisions of this section to such extent as it considers necessary in consequence of any alteration of the boundaries of the State or by reason of the holding of a census of the population of Nigeria in pursuance of an Act of the National Assembly
 
-### Section 115
+#### Section 115
 
 Where the boundaries of any State constituency established under section 112 of this Constitution are altered in accordance with the provisions of section 114 of this Constitution, that alteration shall come into effect after it has been approved by the National Assembly and after the current life of the House of Assembly
 
-### Section 116
+#### Section 116
 
 1. Elections to a House of Assembly shall be held on a date to be appointed by the Independent National Electoral Commission
 
 2. The date mentioned in subsection (1) of this section shall not be earlier than sixty days before and not later than the date on which the House of Assembly stands dissolved, or where the election is to fill a vacancy occurring more than three months before such date, not later than one month after the vacancy occurred
 
-### Section 117
+#### Section 117
 
 1. Subject to the provisions of this Constitution, every State constituency established in accordance with the provisions of this part of this Chapter shall return one member who shall be directly elected to a House of Assembly in such manner as may be prescribed by an Act of the National Assembly
 
 2. Every citizen of Nigeria, who has attained the age of eighteen years residing in Nigeria at the time of the registration of voters for purposes of election to any legislative house, shall be entitled to be registered as a voter for that election
 
-### Section 118
+#### Section 118
 
 The registration of voters and the conduct of elections shall be subject to the direction and supervision of the Independent National Electoral Commission
 
-### Section 119
+#### Section 119
 
 The National Assembly shall make provisions as respects -
 
@@ -634,7 +638,7 @@ The National Assembly shall make provisions as respects -
 
 - (c) powers, practice and procedure of the election tribunal in relation to any such application.
 
-### Section 120
+#### Section 120
 
 1. All revenues or other moneys raised or received by a State (not being revenues or other moneys payable under this Constitution or any Law of a House of Assembly into any other public fund of the State established for a specific purpose) shall be paid into and form one Consolidated Revenue Fund of the State
 
@@ -644,7 +648,7 @@ The National Assembly shall make provisions as respects -
 
 4. No moneys shall be withdrawn from the Consolidated Revenue Fund of the State or any other public fund of the State except in the manner prescribed by the House of Assembly
 
-### Section 121
+#### Section 121
 
 1. The Governor shall cause to be prepared and laid before the House of Assembly at any time before the commencement of each financial year estimates of the revenues and expenditure of the State for the next following financial year
 
@@ -658,17 +662,17 @@ The National Assembly shall make provisions as respects -
 
 - (b) a need has arisen for expenditure for a purpose for which no amount has been appropriated by the Law, a supplementary estimate showing the sums required shall be laid before the House of Assembly and the heads of any such expenditure shall be included in a Supplementary Appropriation Bill
 
-### Section 122
+#### Section 122
 
 If the Appropriation Bill in respect of any financial year has not been passed into Law by the beginning of the financial year, the Governor may authorise the withdrawal of moneys from the Consolidated Revenue Fund of the State for the purpose of meeting expenditure necessary to carry on the services of the government for a period not exceeding six months or until the coming into operation of the Law, whichever is the earlier: Provided that the withdrawal in respect of any such period shall not exceed the amount authorised to be withdrawn from the Consolidated Revenue Fund of the State under the provisions of the Appropriation Law passed by the House of Assembly for the corresponding period in the immediately preceding financial year, being an amount proportionate to the total amount so authorised for the immediately preceding financial year
 
-### Section 123
+#### Section 123
 
 1. A House of Assembly may by Law make provisions for the establishment of a Contingencies Fund for the State and for authorising the Governor, if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from the Fund to meet that need
 
 2. Where any advance is made in accordance with the provisions of this section, a Supplementary Estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purpose of replacing the amount so advanced
 
-### Section 124
+#### Section 124
 
 1. There shall be paid to the holders of the offices mentioned in this section such remuneration and salaries as may be prescribed by a House of Assembly, but not exceeding the amount as shall have been determined by the Revenue Mobilisation Allocation and Fiscal Commission
 
@@ -680,7 +684,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 5. Provisions may be made by a Law of a House of Assembly for the grant of a pension or gratuity to or in respect of a person who had held office as Governor or Deputy Governor and was not removed from office as a result of impeachment; and any pension granted by virtue of any provisions made in pursuance of this subsection shall be a charge upon the Consolidated Revenue Fund of the State
 
-### Section 125
+#### Section 125
 
 1. There shall be an Auditor-General for each State who shall be appointed in accordance with the provisions of section 126 of this Constitution
 
@@ -702,7 +706,7 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 6. In the exercise of his functions under this Constitution, the Auditor-General for a State shall not be subject to the direction or control of any other authority or person
 
-### Section 126
+#### Section 126
 
 1. The Auditor-General for a State shall be appointed by the Governor of the State on the recommendation of the State Civil Service Commission subject to confirmation by the House of Assembly of the State
 
@@ -710,13 +714,13 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 
 3. Except with the sanction of a resolution of the House of Assembly of a State, no person shall act in the office of the Auditor-General for a State for a period exceeding six months
 
-### Section 127
+#### Section 127
 
 1. A person holding the office of Auditor-General under [section 126 (1)](#section-126) of this Constitution shall be removed from office by the Governor of the State acting on an address supported by two-thirds majority of the House of Assembly praying that he be so removed for inability to discharge the functions of his office (whether arising from infirmity of mind or body or any other cause) or for misconduct
 
 2. An Auditor-General shall not been removed from office before such retiring age as may be prescribed by Law, save in accordance with the provisions of this section
 
-### Section 128
+#### Section 128
 
 1. Subject to the provisions of this Constitution, a House of Assembly shall have power by resolution published in its journal or in the Office Gazette of the Government of the State to direct or cause to be directed an inquiry or investigation into -
 
@@ -731,10 +735,10 @@ If the Appropriation Bill in respect of any financial year has not been passed i
 2. The powers conferred on a House of Assembly under the provisions of this section are exercisable only for the purpose of enabling the House to -
 
 - (a) make laws with respect to any matter within its legislative competence and correct any defects in existing laws; and
-  
+
 - (b) expose corruption, inefficiency of waste in the execution or administration of laws within its legislative competence and in the disbursement or administration of funds appropriated by it
 
-### Section 129
+#### Section 129
 
 1. For the purposes of any investigation under section 128 of this Constitution, and subject to the provisions thereof, a House of Assembly or a committee appointed in accordance with section 103 of this Constitution shall have power to -
 

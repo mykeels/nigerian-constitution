@@ -2,17 +2,19 @@
 
 ## Federal Capital Territory, Abuja and General Supplementary Provisions
 
-### Section 297
+### Part I - Federal Capital Territory, Abuja
+
+#### Section 297
 
 1. There shall be a Federal Capital Territory, Abuja the boundaries of which are as defined in Part II of the First Schedule to this Constitution
 
 2. The ownership of all lands comprised in the Federal Capital Territory, Abuja shall vest in the Government of the Federal Republic of Nigeria
 
-### Section 298
+#### Section 298
 
 The Federal Capital Territory, Abuja shall be the Capital of the Federation and seat of the Government of the Federation
 
-### Section 299
+#### Section 299
 
 The provisions of this Constitution shall apply to the Federal Capital Territory, Abuja as if it were one of the States of the Federation; and accordingly -
 
@@ -22,11 +24,11 @@ The provisions of this Constitution shall apply to the Federal Capital Territory
 
 - (c) the provisions of this Constitution pertaining to the matters aforesaid shall be read with such modifications and adaptations as may be reasonably necessary to bring them into conformity with the provisions of this section
 
-### Section 300
+#### Section 300
 
 For the purposes of Chapter V of this Constitution, the Federal Capital Territory, Abuja shall constitute one Senatorial district and as many Federal constituencies as it is entitled to under section 49 of this Constitution
 
-### Section 301
+#### Section 301
 
 Without prejudice to the generality of the provisions of section 299 of this Constitution, in its application to the Federal Capital Territory, Abuja, this Constitution shall be construed as if-
 
@@ -36,21 +38,23 @@ Without prejudice to the generality of the provisions of section 299 of this Con
 
 - (c) references to persons, offices and authorities of a State were references to the persons, offices and authorities of the Federation with like status, designations and powers, respectively; and in particular, as if references to the Attorney-General, Commissioners and the Auditor-General for a State were references to the Attorney-General, Ministers and the Auditor-General of the Federation with like status, designations and powers
 
-### Section 302
+#### Section 302
 
 The President may, in exercise of the powers conferred upon him by [section 147](./chapter-vi.md#section-147) of this Constitution, appoint for the Federal Capital Territory, Abuja a Minister who shall exercise such powers and perform such functions as may be delegated to him by the President, from time to time
 
-### Section 303
+#### Section 303
 
 The Federal Capital Territory, Abuja shall comprise six area councils and the administrative and political structure thereof shall be as provided by an Act of the National Assembly.
 
-### Section 304
+#### Section 304
 
 1. There shall be for the Federal Capital Territory, Abuja, a Judicial Service Committee of the Federal Capital Territory, Abuja, the composition and functions of which shall be as provided in Part III of the Third Schedule to this Constitution
 
 2. The provisions of [sections 154(1)](./chapter-vi.md#section-154) and (3), [155](./chapter-vi.md#section-155), [156](./chapter-vi.md#section-156), [157(1) and (2)](./chapter-vi.md#section-157), [158(1)](./chapter-vi.md#section-158) and [159](./chapter-vi.md#section-159) to [161](./chapter-vi.md#section-161) of this Constitution shall apply with necessary modifications to the Judicial Service Committee of the Federal Capital Territory, Abuja.
 
-### Section 305
+### Part II - Miscellaneous Provisions
+
+#### Section 305
 
 1. Subject to the provisions of this Constitution, the President may by instrument published in the Official -Gazette} of the Government of the Federation issue a Proclamation of a state of emergency in the Federation or any part thereof
 
@@ -86,7 +90,7 @@ The Federal Capital Territory, Abuja shall comprise six area councils and the ad
 
 - (d) at any time after the approval referred to in paragraph (b) or the extension referred to in paragraph (c) of this subsection, when each House of the National Assembly revokes the Proclamation by a simple majority of all the members of each House
 
-### Section 306
+#### Section 306
 
 1. Save as otherwise provided in this section, any person who is appointed, elected or otherwise selected to any office established by this Constitution may resign from that office by writing under his hand addressed to the authority or person by whom he was appointed, elected or selected
 
@@ -102,11 +106,11 @@ The Federal Capital Territory, Abuja shall comprise six area councils and the ad
 
 7. The notice of resignation of a member of a legislative house shall be addressed to the President of the Senate or, as the case may require, to the Speaker of the legislative house in question
 
-### Section 307
+#### Section 307
 
 Notwithstanding any provisions contained in Chapter IV and subject to [sections 131](./chapter-vi.md#section-131) and [177](./chapter-vi.md#section-177) of this Constitution, no citizen of Nigeria by registration or under a grant of certificate of naturalisation shall within ten years of such registration or grant, hold any elective or appointive office under this Constitution
 
-### Section 308
+#### Section 308
 
 1. Notwithstanding anything to the contrary in this Constitution, but subject to subsection (2) of this section -
 
@@ -120,17 +124,19 @@ Notwithstanding any provisions contained in Chapter IV and subject to [sections 
 
 3. This section applies to a person holding the office of President or Vice-President, Governor or Deputy Governor; and the reference in this section to `"period of office"` is a reference to the period during which the person holding such office is required to perform the functions of the office.
 
-### Section 309
+### Part III - Transitional Provisions and Savings
+
+#### Section 309
 
 Notwithstanding the provisions of Chapter III of this Constitution but subject to [section 28](./chapter-iii.md#section-28) thereof, any person who became a citizen of Nigeria by birth, registration or naturalisation under the provisions of any other Constitution shall continue to be a citizen of Nigeria under this Constitution
 
-### Section 310
+#### Section 310
 
 1. Until the National Assembly or a House of Assembly has exercised its powers to initiate legislation in accordance with the provisions of [section 51](./chapter-v.md#section-51) or [93](./chapter-v.md#section-93) of this Constitution, the Clerk or other staff of a legislative house shall be appointed, as respects each House of the National Assembly by the Federal Civil Service Commission, and as respects a House of Assembly by the State Civil Service Commission
 
 2. In exercising its powers under the provisions of this section, the Federal Civil Service Commission shall consult, as appropriate, the President of the Senate or the Speaker of the House of the Representatives, and a State Civil Service Commission shall consult the Speaker of the House of Assembly of the State
 
-### Section 311
+#### Section 311
 
 1. The provisions of this section shall have effect until the National Assembly or a House of Assembly exercises the powers conferred upon it by [section 60](./chapter-v.md#section-60) or [101](./chapter-v.md#section-101) of this Constitution as appropriate
 
@@ -144,21 +150,21 @@ Notwithstanding the provisions of Chapter III of this Constitution but subject t
 
 6. In this section, the `"former Constitution"` refers to the Constitution of the Federal Republic of Nigeria 1979
 
-### Section 312
+#### Section 312
 
 1. The electoral commission established for the Federation under any law in force immediately before the date when this section comes into force shall be responsible for performing the functions conferred on the Independent National Electoral Commission established by the provisions of this Constitution
 
 2. Any person who before the coming into force of this Constitution was elected to any elective office mentioned in this Constitution in accordance with the provisions of any law in force immediately before the coming into force of this Constitution shall be deemed to have been duly elected to that office under this Constitution
 
-### Section 313
+#### Section 313
 
 Pending any Act of the National Assembly for the provision of a system of revenue allocation between the Federation and the States, among the States, between the States and local government councils and among the local government councils in the States, the system of revenue allocation in existence for the financial year beginning from 1st January 1998 and ending on 31st December 1998 shall, subject to the provisions of this Constitution and as from the date when this section comes into force, continue to apply: Provided that where functions have been transferred under this Constitution from the Government of the Federation to the States and from the States to local government councils the appropriations in respect of such functions shall also be transferred to the States and the local government councils, as the case may require
 
-### Section 314
+#### Section 314
 
 Any debt of the Federation or of a State which immediately before the date when this section comes into force was charged on the revenue and assets of the Federation or on the revenue and assets of a State shall, as from the date when this section comes into force, continue to be so charged
 
-### Section 315
+#### Section 315
 
 1. Subject to the provisions of this Constitution, an existing law shall have effect with such modifications as may be necessary to bring it into conformity with the provisions of this Constitution and shall be deemed to be -
 
@@ -202,7 +208,7 @@ Any debt of the Federation or of a State which immediately before the date when 
 
 6. Without prejudice to subsection (5) of this section, the enactments mentioned in the said subsection shall hereafter continue to have effect as Federal enactments and as if they related to matters included in the Exclusive Legislative List set out in Part I of the Second Schedule to this Constitution
 
-### Section 316
+#### Section 316
 
 1. Any office, court of law or authority which immediately before the date when this section comes into force was established and charged with any function by virtue of any other Constitution or law shall be deemed to have been duly established and shall continue to be charged with such function until other provisions are made, as if the office, court of law or authority was established and charged with the function by virtue of this Constitution or in accordance with the provisions of a law made thereunder
 
@@ -212,7 +218,7 @@ Any debt of the Federation or of a State which immediately before the date when 
 
 4. The foregoing provisions of this section are without prejudice to the exercise of such powers as may be conferred by virtue of this Constitution or a law upon any authority or person to make provisions with respect to such matters as may be prescribed or authorised by this Constitution or such law, including the establishment and abolition of offices, courts of law or authorities, and with respect to the appointment of persons to hold offices or to be members of courts of law or authorities and their removal from such offices, courts of law or authorities
 
-### Section 317
+#### Section 317
 
 1. Without prejudice to the generality of section 315 of this constitution, any property, right, privilege, liability or obligation which immediately before the date when this section comes into force was vested in, exercisable or enforceable by or against-
 
@@ -226,7 +232,9 @@ Any debt of the Federation or of a State which immediately before the date when 
 
 - (b) references in this section to `"former authority of the Federation"` and `"former authority of a state"` include references to the former Government of the Federation and the former government of a state, a local government authority or any person who exercised any authority on its behalf.
 
-### Section 318
+### Part IV - Interpretation, Citation and Commencement
+
+#### Section 318
 
 1. In this constitution, unless it is otherwise expressly provided or the context otherwise requires-
 
@@ -302,10 +310,10 @@ Any debt of the Federation or of a State which immediately before the date when 
 
 4. The Interpretation Act shall apply for the purpose of interpreting the provision of this Constitution.
 
-### Section 319
+#### Section 319
 
 This Constitution may be cited as the Constitution of the Federal Republic of Nigeria 1999
 
-### Section 320
+#### Section 320
 
 The provision of this Constitution shall come into force on 29th day of May 1999.
