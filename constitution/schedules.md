@@ -43,3 +43,24 @@
 | Yobe | Bade, Bursari, Damaturu, Fika, Fune, Geidam, Gujba, Gulani, Jakusko, Karasuwa, Karawa, Machina, Nangere, Nguru Potiskum, Tarmua, Yunusari, Yusufari. | Damaturu |
 | Zamfara | Anka, Bakura, Birnin Magaji, Bukkuyum, Bungudu, Gummi, Gusau, Kaura, Namoda, Maradun, Maru, Shinkafi, Talata Mafara. Tsafe, Zurmi. | Gusau |
 
+### Part II
+
+1. Definition of Federal Capital Territory Abuja.
+
+The definition of the boundaries of the Federal Capital Territory, Abuja referred to under Chapters 1 and VIII of this Constitution is as follows:
+
+Starting from the village called Izom on `7oE Longitude` and `9o 15 Latitude`, project a straight line westward to a point just north of Lehu on the Kemi River, then project a line along `6 o 47 ½ ‘ E` southward passing close to the villages called Semasu, Zui and Bassa down to a place a little west of Abaji town; thence project a line along parallel `8o 27 ½ ‘N Latitude` to Ahinza village `7o 6"` on Kanama River); thence a straight line to Buga Village on `8o 30 ‘N Latitude` and `7" 20’E Longitude`; thence draw a line northwards joining the villages of Odu, Karshi and Karu. From Karu the line shall proceed along the boundary between the Niger and Plateau States as far as Kawu; thence the line shall proceed along the boundary between Kaduna and Niger States up to a point just north of Bwari village, hence the line goes straight to Zuba village and thence straight to Izom.
+
+2. Federal Capital Territory, Abuja
+
+Area Councils
+
+| Area Council | Headquarters | 
+|---|---|
+| Abaji | Abaji |
+|Abuja Municipal | Garki |
+| Bwari | Bwari |
+| Gwagwalada | Gwagwalada |
+| Kuje | Kuje |
+| Kwali | Kwali |
+
