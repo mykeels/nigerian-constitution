@@ -55,7 +55,7 @@ Starting from the village called Izom on `7oE Longitude` and `9o 15 Latitude`, p
 
 Area Councils
 
-| Area Council | Headquarters | 
+| Area Council | Headquarters |
 |---|---|
 | Abaji | Abaji |
 |Abuja Municipal | Garki |
@@ -64,13 +64,9 @@ Area Councils
 | Kuje | Kuje |
 | Kwali | Kwali |
 
-
-
-
 ## Second Schedule - Legislative Powers
 
 ### Part I - Exclusive Legislative List
-
 
 1. Accounts of the Government of the Federation, and of offices, courts, and authorities thereof, including audit of those accounts.
 
@@ -238,10 +234,9 @@ Area Councils
 
 68. Any matter incidental or supplementary to any matter mentioned elsewhere in this list.
 
-
 ### Part II - Concurrent Legislative List
 
-### Extent of Federal and State Legislative powers
+#### Extent of Federal and State Legislative powers
 
 1. Subject to the provisions of this Constitution, the National Assembly may by an Act make provisions for -
 
@@ -367,7 +362,6 @@ the National Assembly may, subject to such conditions as it may prescribe, provi
 
 30. Nothing in the foregoing paragraphs of this item shall be construed so as to limit the powers of a House of Assembly to make laws for the State with respect to technical, vocational, post-primary, primary or other forms of education, including the establishment of institutions for the pursuit of such education.
 
-
 ### Part III - Supplemental and Interpretation
 
 1. Where by this Schedule the National Assembly is required to designate any matter or thing or to make any declaration, it may do so either by an Act of the National Assembly or by a resolution passed by both Houses of the National Assembly.
@@ -380,13 +374,11 @@ the National Assembly may, subject to such conditions as it may prescribe, provi
 
 (c) the acquisition and tenure of land.
 
-
-
 ## Third Schedule
 
 ### Part I - Federal Executive Bodies (Established by Section 153)
 
-### A - Code of Conduct Bureau
+#### A - Code of Conduct Bureau
 
 1. The Code of Conduct Bureau shall comprise the following members:
 
@@ -493,8 +485,6 @@ The terms and conditions of service of the staff of the Code of Conduct Bureau s
 (b) to dismiss and exercise disciplinary control over persons holding such offices.
 
 (2) The Commission shall not exercise any of its powers under sub-paragraph (1) of this paragraph in respect of such offices of heads of divisions of Ministries or of departments of the government of the Federation as may, from time to time, be designated by an order made by the President except after consultation with the Head of the Civil Service of the Federation.
-
- 
 
 ### E - Federal Judicial Service Commission
 
@@ -756,7 +746,6 @@ Provided that any revenue formula which has been accepted by an Act of the Natio
 
 (e) discharge such other functions as are conferred on the Commission by this Constitution or any Act of the National Assembly.
 
- 
 ## Part II - State's Executive Bodies (Established by section 197)
 
 ### A - State Civil Service Commission
@@ -827,7 +816,6 @@ Provided that any revenue formula which has been accepted by an Act of the Natio
 
 (c) to appoint, dismiss and exercise disciplinary control over the Chief Registrar and Deputy Chief Registrar of the High Court, the Chief Registrars of the Sharia Court of Appeal and Customary Court of Appeal, Magistrates, Judges and members of Area Courts and Customary Courts and all other members of the staff of the judicial service of the State not otherwise specified in this Constitution.
 
- 
 ## Part III - Federal Capital Territory, Abuja Executive Body (Established under Section 304)
 
 ### Judicial Service Committee of the Federal Capital Territory, Abuja
@@ -865,8 +853,6 @@ Provided that any revenue formula which has been accepted by an Act of the Natio
 (b) subject to the provisions of this Constitution, to recommend to the National Judicial Council the removal from office of the Judicial officers specified in sub-paragraph (a) of this paragraph;
 
 (c) to appoint, promote and exercise disciplinary control over the Chief Registrar and Deputy Chief Registrars of the High Court, the Sharia Court of Appeal and the Customary Court of Appeal of the Federal Capital Territory, Abuja, magistrates, the judges and members of the District and Area Courts of the Federal Capital Territory, Abuja, if any, and all other members of the staff of the judicial service of the Federal Capital Territory, Abuja not otherwise specified in this Constitution and of the Judicial Service Committee of the Federal Capital Territory, Abuja.
-
- 
 
 ## Fourth Schedule - Functions of a Local Government Council
 
@@ -921,11 +907,6 @@ the provision and maintenance of primary, adult and vocational education;
 (c) the provision and maintenance of health services; and
 
 (d) such other functions as may be conferred on a local government council by the House of Assembly of the State.
-
- 
-
-
- 
 
 ## Fifth Schedule
 
@@ -1057,7 +1038,6 @@ Provided that the head of a public corporation or of a university or other paras
 
 "public office" shall not include the chairmanship or membership of ad hoc tribunals, commissions or committees
 
- 
 ## Part II - Public Officers for the purposes of the Code of conduct
 
 1. The President of the Federation.
@@ -1092,8 +1072,6 @@ Provided that the head of a public corporation or of a university or other paras
 
 16. Chairman, members and staff of permanent commissions or councils appointed on full time basis.
 
-
-
 ## Sixth Schedule - Election Tribunals
 
 ### A-National Assembly Election Tribunal
@@ -1112,8 +1090,6 @@ Provided that the head of a public corporation or of a university or other paras
 
 (3) The Chairman and other members shall be appointed by the President of the Court of Appeal in consultation with the Chief Judge of the State, the Grand Kadi of the Sharia Court of Appeal of the State or the President of the Customary Court of Appeal of the State, as the case may be.
 
- 
- 
 ## Seventh Schedule - Oaths
 
 ### Oaths of Allegiance
