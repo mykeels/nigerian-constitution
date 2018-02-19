@@ -763,3 +763,103 @@ Federal Capital Territory, Abuja and General Supplementary Provisions
 319. [Citation](./constitution/chapter-viii.md#section-319)
 
 320. [Commencement](./constitution/chapter-viii.md#section-320)
+
+## [Schedules](./constitution/schedules.md)
+
+### [First Schedule](./constitution/schedules.md#first-schedule)
+
+#### Part I - States of the Federation
+
+Part II - Definition and Area Councils of Federal Capital Territory, Abuja
+
+### [Second Schedule](./constitution/schedules.md#second-schedule)
+
+Part I - Exclusive Legislative List
+
+Part II - Concurrent Legislative List
+
+Part III - Supplemental and Interpretation
+
+### [Third Schedule](./constitution/schedules.md#third-schedule)
+
+Part I - Federal Executive Bodies
+
+- Code of Conduct Bureau
+
+- Council of State
+
+- Federal Character Commission
+
+- Federal Civil Service Commission
+
+- Federal Judicial Service Commission
+
+- Independent National Electoral Commission
+
+- National Defence Council
+
+- National Economic Council
+
+- National Judicial Council
+
+- National Population Commission
+
+- National Security Council
+
+- Nigeria Police Council
+
+- Police Service Commission
+
+- Revenue Mobilisation Allocation and Fiscal Commission.
+
+Part II - State Executive Bodies
+
+- State Civil Service Commission
+
+- State Independent Electoral Commission
+
+- State Judicial Service Commission.
+
+Part III - Federal Capital Territory, Abuja Executive Body
+
+- Judicial Service Committee of the Federal Capital Territory, Abuja
+
+### [Fourth Schedule](./constitution/schedules.md#fourth-schedule)
+
+Functions of a Local Council
+
+### [Fifth Schedule](./constitution/schedules.md#fifth-schedule)
+
+Part I - Code of Conduct for Public officers
+
+- General
+
+- Code of Conduct Tribunal
+
+- Interpretation
+
+Part II - Public Officers for the Purposes of the Code of Conduct
+
+### [Sixth Schedule](./constitution/schedules.md#sixth-schedule)
+
+- Election Tribunals
+
+- National Assembly Election Tribunal
+
+- Governorship and Legislative Houses Election tribunal
+
+### [Seventh Schedule](./constitution/schedules.md#seventh-schedule)
+
+- Oaths
+
+- Oaths of Allegiance
+
+- Oath of Office of President
+
+- Oath of Office of Governor of a State
+
+- Oath of Office of Vice-President, Deputy Governor, Minister, Commissioner or Special Adviser
+
+- Oath of a Member of the National Assembly or of a House of Assembly
+
+- Judicial Oath
