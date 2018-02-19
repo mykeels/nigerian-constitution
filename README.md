@@ -772,7 +772,7 @@ Federal Capital Territory, Abuja and General Supplementary Provisions
 
 Part II - Definition and Area Councils of Federal Capital Territory, Abuja
 
-### [Second Schedule](./constitution/schedules.md#second-schedule)
+### [Second Schedule](./constitution/schedules.md#second-schedule---legislative-powers)
 
 Part I - Exclusive Legislative List
 
@@ -824,7 +824,7 @@ Part III - Federal Capital Territory, Abuja Executive Body
 
 - Judicial Service Committee of the Federal Capital Territory, Abuja
 
-### [Fourth Schedule](./constitution/schedules.md#fourth-schedule)
+### [Fourth Schedule](./constitution/schedules.md#fourth-schedule---functions-of-a-local-government-council)
 
 Functions of a Local Council
 
@@ -840,7 +840,7 @@ Part I - Code of Conduct for Public officers
 
 Part II - Public Officers for the Purposes of the Code of Conduct
 
-### [Sixth Schedule](./constitution/schedules.md#sixth-schedule)
+### [Sixth Schedule](./constitution/schedules.md#sixth-schedule---election-tribunals)
 
 - Election Tribunals
 
@@ -848,7 +848,7 @@ Part II - Public Officers for the Purposes of the Code of Conduct
 
 - Governorship and Legislative Houses Election tribunal
 
-### [Seventh Schedule](./constitution/schedules.md#seventh-schedule)
+### [Seventh Schedule](./constitution/schedules.md#seventh-schedule---oaths)
 
 - Oaths
 
